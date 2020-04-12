@@ -11,6 +11,8 @@
 - A. F. López-Lopera, N. Durrande, F. Bachoc, and O. Roustant, Finite-dimensional Gaussian approximation with linear inequality constraints, SIAM/ASA Journal on Uncertainty Quantification, 6(3):1224–1255, 2018. [[doi]](https://www.google.com/url?q=https%3A%2F%2Fdoi.org%2F10.1137%2F17M1153157&sa=D) [[preprint]](https://www.google.com/url?q=https%3A%2F%2Farxiv.org%2Fabs%2F1710.07453&sa=D) [[cran]](https://www.google.com/url?q=https%3A%2F%2Fcran.r-project.org%2Fweb%2Fpackages%2FlineqGPR%2Findex.html&sa=D) [[github]](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fanfelopera%2FlineqGPR&sa=D)
 - A. F. López-Lopera, and M. A. Alvarez, Switched latent force models for reverse-engineering transcriptional regulation in gene expression data, IEEE/ACM Transaction on Computational Biology and Bioinformatics, 16(1):322–335, 2017. [[doi]](https://www.google.com/url?q=https%3A%2F%2Fdoi.org%2F10.1109%2FTCBB.2017.2764908&sa=D) [[preprint]](https://www.google.com/url?q=https%3A%2F%2Farxiv.org%2Fabs%2F1511.07334&sa=D) [[github]](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fanfelopera%2FSDLFM_ReverseEngineering&sa=D)
 
+---
+
 ## Proceedings in International Conferences
 - A. F. López-Lopera, F. Bachoc, N. Durrande, and O. Roustant, Approximating Gaussian process emulators with linear inequality constraints and noisy observations via MC and MCMC, to appear at MCQMC 2019, Rennes, France. [[preprint]](https://www.google.com/url?q=https%3A%2F%2Farxiv.org%2Fabs%2F1901.04827&sa=D)
 - A. F. López-Lopera, S. John, and N. Durrande, Gaussian process modulated Cox processes under linear inequality constraints, AISTATS 2019, Naha, Okinawa, Japan. [[url]](https://www.google.com/url?q=http%3A%2F%2Fproceedings.mlr.press%2Fv89%2Flopez-lopera19a.html&sa=D) [[preprint]](https://www.google.com/url?q=http%3A%2F%2Farxiv.org%2Fabs%2F1902.10974&sa=D)
@@ -19,14 +21,20 @@
 - A. F. López-Lopera, M. A. Alvarez, and A. A. Orozco, Improving diffusion tensor estimation using adaptive and optimized filtering based on local similarity, IbPRIA 2017, Santiago de Compostela, Spain. [[doi]](https://www.google.com/url?q=http%3A%2F%2Fdx.doi.org%2F10.1007%2F978-3-319-19390-8_69&sa=D)
 - A. F. López-Lopera, H. D. Vargas, G. Daza-Santacoloma, M. A. Alvarez, and A. A. Orozco, Comparison of preprocessing methods for diffusion tensor estimation in brain imaging, STSIVA 2014, Armenia, Colombia. [[doi]](https://www.google.com/url?q=http%3A%2F%2Fieeexplore.ieee.org%2Fxpl%2FarticleDetails.jsp%3Farnumber%3D7010183&sa=D)
 
+---
+
 ## Other Conferences and Workshops
 - A. F. López-Lopera, lineqGPR: An R package for Gaussian process regression modelling with linear inequality constraints, at UseR! 2019, Toulouse, France.
 - A. F. López-Lopera, F. Bachoc, N. Durrande, and O. Roustant, Efficiently approximating Gaussian process emulators with inequality constraints using MC/MCMC, at MCQMC 2018, Rennes, France. [[slides]](https://drive.google.com/open?id=1WCy3a15n1jBujCmyxCgPTWhKpFZkwMpx)
 - A. F. López-Lopera, F. Bachoc, N. Durrande, and O. Roustant, Finite-dimensional Gaussian approximation with linear inequality constraints, at SIAM-UQ 2018, Garden Grove, California, USA. [[slides]](https://drive.google.com/open?id=1cgclfmQXQ1jq9Ve3IE4J04i3mdq_NPRj)
 - A. F. López-Lopera, F. Bachoc, N. Durrande, and O. Roustant, Gaussian process regression models under linear inequality conditions, at Mascot-Num 2018, Nantes, France. [[poster]](https://drive.google.com/open?id=1IJi1QnaMTX59IP6dfUHwROITajeAWi-L)
 
+---
+
 ## Software
 - lineqGPR: Gaussian Process Regression Models with Linear Inequality Constraints, R package, 2018. [[cran]](https://www.google.com/url?q=https%3A%2F%2Fcran.r-project.org%2Fweb%2Fpackages%2FlineqGPR%2Findex.html&sa=D) [[github]](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fanfelopera%2FlineqGPR&sa=D)
+
+---
 
 ## Thesis
 - A. F. López-Lopera, Gaussian process modelling under inequality constraints, PhD in Applied Mathematics, Mines Saint-Etienne, 2019. [[pdf]](https://drive.google.com/file/d/1leye7BHyDybTvhWWvdm5FvyOzYJwUOyo/view?usp=sharing) [[slides]](https://drive.google.com/open?id=1SFGVOUX6zOTjU2wFaU9KG-Ihx-E8C49b)
