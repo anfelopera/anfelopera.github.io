@@ -3,6 +3,8 @@
 - A. F. López-Lopera, N. Durrande, F. Bachoc, and O. Roustant, Additive Gaussian processes under linear inequality constraints.
 - E. A. Valencia, C. K. Valencia, A. F. López-Lopera, and M. A. Alvarez, Distance measures for hidden Markov models based on Hilbert space embeddings for time series classification.
 
+---
+
 ## Publications in International Journals
 - A. F. López-Lopera, N. Durrande, and M. A. Alvarez, Physically-inspired Gaussian process models for post-transcriptional regulation in Drosophila. Accepted for publication at IEEE/ACM Transaction on Computational Biology and Bioinformatics, 2019. [[doi]](https://www.google.com/url?q=https%3A%2F%2Fdoi.org%2F10.1109%2FTCBB.2019.2918774&sa=D) [[preprint]](https://www.google.com/url?q=https%3A%2F%2Farxiv.org%2Fabs%2F1808.10026&sa=D) [[github]](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fanfelopera%2FPhysicallyGPDrosophila&sa=D)
 - F. Bachoc, A. Lagnoux, and A. F. López-Lopera, Maximum likelihood estimation for Gaussian processes under inequality constraints, Electronic Journal of Statistics, 13(2): 2921–2969, 2019. [[doi]](https://www.google.com/url?q=https%3A%2F%2Fdoi.org%2F10.1214%2F19-EJS1587&sa=D) [[preprint]](https://www.google.com/url?q=https%3A%2F%2Farxiv.org%2Fabs%2F1804.03378&sa=D)
