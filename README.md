@@ -1,5 +1,3 @@
-This is an example
-
 ## About me
 - Postdoctoral researcher at [IMT](https://www.google.com/url?q=https%3A%2F%2Fwww.math.univ-toulouse.fr%2F&sa=D) (Toulouse) – [BRGM](https://www.google.com/url?q=https%3A%2F%2Fwww.brgm.fr%2F&sa=D) (Orléans), France. Research project: [**Risk-Based System for Coastal Flooding Early Warning (Riscope)**](https://www.google.com/url?q=https%3A%2F%2Fperso.math.univ-toulouse.fr%2Friscope%2F&sa=D).
 - Ph.D. in Applied Mathematics at [Mines de Saint-Étienne](https://www.mines-stetienne.fr/), France. I worked under the supervision of [Prof. Olivier Roustant](https://olivier-roustant.fr/), [Ph.D. Nicolas Durrande](https://sites.google.com/site/nicolasdurrandehomepage/), and [Ph.D. François Bachoc](https://www.google.com/url?q=http%3A%2F%2Fwww.math.univ-toulouse.fr%2F~fbachoc%2F&sa=D). The thesis was funded by the [**Chair in Applied Mathematics OQUAIDO**](https://www.google.com/url?q=http%3A%2F%2Fchaire-mathematiques-appliquees.emse.fr%2F&sa=D).
