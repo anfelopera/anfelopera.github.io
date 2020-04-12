@@ -15,13 +15,13 @@
 - A. F. López-Lopera, M. A. Álvarez, and A. A. Orozco, Sparse linear models applied to power quality disturbance classification, CIARP 2016, Lima, Peru. [[doi]](https://www.google.com/url?q=https%3A%2F%2Flink.springer.com%2Fchapter%2F10.1007%2F978-3-319-52277-7_63&sa=D) [[preprint]](https://www.google.com/url?q=http%3A%2F%2Farxiv.org%2Fabs%2F1511.07281&sa=D)
 - H. D. Cardona, A. F. López-Lopera, A. A. Orozco, M. A. Alvarez, J. A. Tamames, and N. Malpica, Gaussian processes for slice-based super-resolution MR images, ISVC 2015, Las Vegas, Nevada, USA. [[doi]](https://www.google.com/url?q=http%3A%2F%2Fdx.doi.org%2F10.1007%2F978-3-319-27863-6_65&sa=D)
 - A. F. López-Lopera, M. A. Alvarez, and A. A. Orozco, Improving diffusion tensor estimation using adaptive and optimized filtering based on local similarity, IbPRIA 2017, Santiago de Compostela, Spain. [[doi]](https://www.google.com/url?q=http%3A%2F%2Fdx.doi.org%2F10.1007%2F978-3-319-19390-8_69&sa=D)
-A. F. López-Lopera, H. D. Vargas, G. Daza-Santacoloma, M. A. Alvarez, and A. A. Orozco, Comparison of preprocessing methods for diffusion tensor estimation in brain imaging, STSIVA 2014, Armenia, Colombia. [[doi]](https://www.google.com/url?q=http%3A%2F%2Fieeexplore.ieee.org%2Fxpl%2FarticleDetails.jsp%3Farnumber%3D7010183&sa=D)
+- A. F. López-Lopera, H. D. Vargas, G. Daza-Santacoloma, M. A. Alvarez, and A. A. Orozco, Comparison of preprocessing methods for diffusion tensor estimation in brain imaging, STSIVA 2014, Armenia, Colombia. [[doi]](https://www.google.com/url?q=http%3A%2F%2Fieeexplore.ieee.org%2Fxpl%2FarticleDetails.jsp%3Farnumber%3D7010183&sa=D)
 
 ## Other Conferences and Workshops
 - A. F. López-Lopera, lineqGPR: An R package for Gaussian process regression modelling with linear inequality constraints, at UseR! 2019, Toulouse, France.
-- A. F. López-Lopera, F. Bachoc, N. Durrande, and O. Roustant, Efficiently approximating Gaussian process emulators with inequality constraints using MC/MCMC, at MCQMC 2018, Rennes, France. [slides]
-- A. F. López-Lopera, F. Bachoc, N. Durrande, and O. Roustant, Finite-dimensional Gaussian approximation with linear inequality constraints, at SIAM-UQ 2018, Garden Grove, California, USA. [slides]
-- A. F. López-Lopera, F. Bachoc, N. Durrande, and O. Roustant, Gaussian process regression models under linear inequality conditions, at Mascot-Num 2018, Nantes, France. [abs.] [poster]
+- A. F. López-Lopera, F. Bachoc, N. Durrande, and O. Roustant, Efficiently approximating Gaussian process emulators with inequality constraints using MC/MCMC, at MCQMC 2018, Rennes, France. [[slides]](https://drive.google.com/open?id=1WCy3a15n1jBujCmyxCgPTWhKpFZkwMpx)
+- A. F. López-Lopera, F. Bachoc, N. Durrande, and O. Roustant, Finite-dimensional Gaussian approximation with linear inequality constraints, at SIAM-UQ 2018, Garden Grove, California, USA. [[slides]](https://drive.google.com/open?id=1cgclfmQXQ1jq9Ve3IE4J04i3mdq_NPRj)
+- A. F. López-Lopera, F. Bachoc, N. Durrande, and O. Roustant, Gaussian process regression models under linear inequality conditions, at Mascot-Num 2018, Nantes, France. [[poster]](https://drive.google.com/open?id=1IJi1QnaMTX59IP6dfUHwROITajeAWi-L)
 
 ## Software
 - lineqGPR: Gaussian Process Regression Models with Linear Inequality Constraints, R package, 2018. [[cran]](https://www.google.com/url?q=https%3A%2F%2Fcran.r-project.org%2Fweb%2Fpackages%2FlineqGPR%2Findex.html&sa=D) [[github]](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fanfelopera%2FlineqGPR&sa=D)
