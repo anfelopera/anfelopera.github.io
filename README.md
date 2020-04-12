@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## About me
+- Postdoctoral researcher at [IMT](https://www.google.com/url?q=https%3A%2F%2Fwww.math.univ-toulouse.fr%2F&sa=D) (Toulouse) – [BRGM](https://www.google.com/url?q=https%3A%2F%2Fwww.brgm.fr%2F&sa=D) (Orléans), France. Research project: [**Risk-Based System for Coastal Flooding Early Warning (Riscope)**](https://www.google.com/url?q=https%3A%2F%2Fperso.math.univ-toulouse.fr%2Friscope%2F&sa=D).
+- Ph.D. in Applied Mathematics at [Mines de Saint-Étienne](https://www.mines-stetienne.fr/), France. I worked under the supervision of [Prof. Olivier Roustant](https://olivier-roustant.fr/), [Ph.D. Nicolas Durrande](https://sites.google.com/site/nicolasdurrandehomepage/), and [Ph.D. François Bachoc](https://www.google.com/url?q=http%3A%2F%2Fwww.math.univ-toulouse.fr%2F~fbachoc%2F&sa=D). The thesis was funded by the [**Chair in Applied Mathematics OQUAIDO**](https://www.google.com/url?q=http%3A%2F%2Fchaire-mathematiques-appliquees.emse.fr%2F&sa=D).
+- My research interests include applied mathematics, machine learning and computer science topics. More precisely, Gaussian processes, differential equations, and probabilistic models.
 
-You can use the [editor on GitHub](https://github.com/anfelopera/anfelopera.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/anfelopera/anfelopera.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## News
+- Published paper in **EJS 2019**: [_"Maximum likelihood estimation for Gaussian processes under inequality constraints"_](https://www.google.com/url?q=https%3A%2F%2Fdoi.org%2F10.1214%2F19-EJS1587&sa=D), joint work with F. Bachoc and A. Lagnoux.
+- Accepted paper for publication in the proceedings of **MCQMC 2018**: [_"Approximating Gaussian Process Emulators with Linear Inequality Constraints and Noisy Observations via MC and MCMC"_](https://www.google.com/url?q=https%3A%2F%2Farxiv.org%2Fabs%2F1901.04827&sa=D), joint work with F. Bachoc, N. Durrande, J. Rohmer, D. Idier, and O. Roustant.
+- Accepted paper for publication at **IEEE-TCBB 2019**: [_"Physically-inspired Gaussian process models for post-transcriptional regulation in Drosophila"_](https://www.google.com/url?q=https%3A%2F%2Fieeexplore.ieee.org%2Fdocument%2F8723187&sa=D), joint work with N. Durrande and M. A. Alvarez.
