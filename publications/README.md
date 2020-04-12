@@ -32,8 +32,9 @@
 ---
 
 ## Software
-- lineqGPR: Gaussian Process Regression Models with Linear Inequality Constraints, R package, 2018. [[cran]](https://www.google.com/url?q=https%3A%2F%2Fcran.r-project.org%2Fweb%2Fpackages%2FlineqGPR%2Findex.html&sa=D) [[github]](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fanfelopera%2FlineqGPR&sa=D)
-
+- lineqGPR: Gaussian Process Regression Models with Linear Inequality Constraints, R package. [[cran]](https://www.google.com/url?q=https%3A%2F%2Fcran.r-project.org%2Fweb%2Fpackages%2FlineqGPR%2Findex.html&sa=D) [[github]](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fanfelopera%2FlineqGPR&sa=D)
+- PhysicallyGPDrosophila: Physically-inspired Gaussian process models for post-transcriptional regulation in Drosophila, R codes. [[github]](https://github.com/anfelopera/PhysicallyGPDrosophila)
+- SDLFM_ReverseEngineering: Switched latent force model for reverse-engineering transcriptional regulation in gene expression data, Matlab codes. [[github]](https://github.com/anfelopera/SDLFM_ReverseEngineering)
 ---
 
 ## Thesis
