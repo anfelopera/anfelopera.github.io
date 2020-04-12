@@ -56,6 +56,14 @@
 
       </section>
       <footer>
+        {% if site.researchgate %}
+        <class="view"><a href="{{ site.researchgate }}">View My Research Gate Scholar Profile</a><br>
+        {% endif %}
+          
+        {% if site.linkedin %}
+        <small><class="view"><a href="{{ site.linkedin }}">View My LinkedIn Profile</a></p>
+        {% endif %}
+          
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
