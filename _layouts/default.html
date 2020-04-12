@@ -56,12 +56,20 @@
 
       </section>
       <footer>
+        {% if site.github.is_user_page %}
+        <small><class="view"><a href="{{ site.github.owner_url }}">GitHub </a>
+        {% endif %}
+        
+        {% if site.gscholar %}
+        &mdash;<small><class="view"><a href="{{ site.gscholar }}">Goole Scholar </a>
+        {% endif %}
+          
         {% if site.researchgate %}
-        <small><class="view"><a href="{{ site.researchgate }}">ResearchGate</a>
+        &mdash;<small><class="view"><a href="{{ site.researchgate }}">ResearchGate </a>
         {% endif %}
           
         {% if site.linkedin %}
-        <small><class="view"><a href="{{ site.linkedin }}">&mdash; LinkedIn </a></p>
+        &mdash;<small><class="view"><a href="{{ site.linkedin }}">LinkedIn </a></p>
         {% endif %}
           
         {% if site.github.is_project_page %}
