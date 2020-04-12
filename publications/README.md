@@ -37,6 +37,6 @@
 ---
 
 ## Thesis
-- A. F. López-Lopera, Gaussian process modelling under inequality constraints, PhD in Applied Mathematics, Mines Saint-Etienne, 2019. [[pdf]](https://github.com/anfelopera/anfelopera.github.io/blob/master/publications/thesis/LopezLopera2019_PhDThesis.pdf) [[slides]](https://drive.google.com/open?id=1SFGVOUX6zOTjU2wFaU9KG-Ihx-E8C49b)
+- A. F. López-Lopera, Gaussian process modelling under inequality constraints, PhD in Applied Mathematics, Mines Saint-Etienne, 2019. [[pdf]](https://github.com/anfelopera/anfelopera.github.io/blob/master/publications/thesis/LopezLopera2019_PhDThesis.pdf) [[slides]](https://github.com/anfelopera/anfelopera.github.io/blob/master/publications/thesis/LopezLopera2019_PhDSlides.pdf)
 - A. F. López-Lopera, Switched dynamical latent force models for transcriptional regulation, Master's thesis, Electrical Engineering Program, Universidad Tecnológica de Pereira, 2015. [[pdf]](https://github.com/anfelopera/anfelopera.github.io/blob/master/publications/thesis/LopezLopera2015_MScThesis.pdf)
 - A. F. López-Lopera, "Selección de la mejor base para la caracterización de perturbaciones en señales de calidad de potencia usando transformaciones tiempo/frecuencia" (in Spanish), Bachelor's thesis, Electrical Engineering Program, Universidad Tecnológica de Pereira, 2013. [[pdf]](https://github.com/anfelopera/anfelopera.github.io/blob/master/publications/thesis/LopezLopera2013_BScThesis.pdf)
