@@ -6,10 +6,10 @@
 ---
 
 ## Publications in International Journals
-- A. F. López-Lopera, N. Durrande, and M. A. Alvarez, Physically-inspired Gaussian process models for post-transcriptional regulation in Drosophila. Accepted for publication at IEEE/ACM Transaction on Computational Biology and Bioinformatics, 2019. [[doi]](https://www.google.com/url?q=https%3A%2F%2Fdoi.org%2F10.1109%2FTCBB.2019.2918774&sa=D) [[preprint]](https://www.google.com/url?q=https%3A%2F%2Farxiv.org%2Fabs%2F1808.10026&sa=D) [[github]](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fanfelopera%2FPhysicallyGPDrosophila&sa=D)
+- A. F. López-Lopera, N. Durrande, and M. A. Alvarez, Physically-inspired Gaussian process models for post-transcriptional regulation in Drosophila. Accepted for publication at IEEE/ACM Transaction on Computational Biology and Bioinformatics, 2019. [[doi]](https://www.google.com/url?q=https%3A%2F%2Fdoi.org%2F10.1109%2FTCBB.2019.2918774&sa=D) [[preprint]](https://www.google.com/url?q=https%3A%2F%2Farxiv.org%2Fabs%2F1808.10026&sa=D) [[github]](https://github.com/anfelopera/PhysicallyGPDrosophila)
 - F. Bachoc, A. Lagnoux, and A. F. López-Lopera, Maximum likelihood estimation for Gaussian processes under inequality constraints, Electronic Journal of Statistics, 13(2): 2921–2969, 2019. [[doi]](https://www.google.com/url?q=https%3A%2F%2Fdoi.org%2F10.1214%2F19-EJS1587&sa=D) [[preprint]](https://www.google.com/url?q=https%3A%2F%2Farxiv.org%2Fabs%2F1804.03378&sa=D)
-- A. F. López-Lopera, N. Durrande, F. Bachoc, and O. Roustant, Finite-dimensional Gaussian approximation with linear inequality constraints, SIAM/ASA Journal on Uncertainty Quantification, 6(3):1224–1255, 2018. [[doi]](https://www.google.com/url?q=https%3A%2F%2Fdoi.org%2F10.1137%2F17M1153157&sa=D) [[preprint]](https://www.google.com/url?q=https%3A%2F%2Farxiv.org%2Fabs%2F1710.07453&sa=D) [[cran]](https://www.google.com/url?q=https%3A%2F%2Fcran.r-project.org%2Fweb%2Fpackages%2FlineqGPR%2Findex.html&sa=D) [[github]](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fanfelopera%2FlineqGPR&sa=D)
-- A. F. López-Lopera, and M. A. Alvarez, Switched latent force models for reverse-engineering transcriptional regulation in gene expression data, IEEE/ACM Transaction on Computational Biology and Bioinformatics, 16(1):322–335, 2017. [[doi]](https://www.google.com/url?q=https%3A%2F%2Fdoi.org%2F10.1109%2FTCBB.2017.2764908&sa=D) [[preprint]](https://www.google.com/url?q=https%3A%2F%2Farxiv.org%2Fabs%2F1511.07334&sa=D) [[github]](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fanfelopera%2FSDLFM_ReverseEngineering&sa=D)
+- A. F. López-Lopera, N. Durrande, F. Bachoc, and O. Roustant, Finite-dimensional Gaussian approximation with linear inequality constraints, SIAM/ASA Journal on Uncertainty Quantification, 6(3):1224–1255, 2018. [[doi]](https://www.google.com/url?q=https%3A%2F%2Fdoi.org%2F10.1137%2F17M1153157&sa=D) [[preprint]](https://www.google.com/url?q=https%3A%2F%2Farxiv.org%2Fabs%2F1710.07453&sa=D) [[cran]](https://www.google.com/url?q=https%3A%2F%2Fcran.r-project.org%2Fweb%2Fpackages%2FlineqGPR%2Findex.html&sa=D) [[github]](https://github.com/anfelopera/lineqGPR)
+- A. F. López-Lopera, and M. A. Alvarez, Switched latent force models for reverse-engineering transcriptional regulation in gene expression data, IEEE/ACM Transaction on Computational Biology and Bioinformatics, 16(1):322–335, 2017. [[doi]](https://www.google.com/url?q=https%3A%2F%2Fdoi.org%2F10.1109%2FTCBB.2017.2764908&sa=D) [[preprint]](https://www.google.com/url?q=https%3A%2F%2Farxiv.org%2Fabs%2F1511.07334&sa=D) [[github]](https://github.com/anfelopera/SDLFM_ReverseEngineering)
 
 ---
 
@@ -25,16 +25,16 @@
 
 ## Other Conferences and Workshops
 - A. F. López-Lopera, lineqGPR: An R package for Gaussian process regression modelling with linear inequality constraints, at UseR! 2019, Toulouse, France.
-- A. F. López-Lopera, F. Bachoc, N. Durrande, and O. Roustant, Efficiently approximating Gaussian process emulators with inequality constraints using MC/MCMC, at MCQMC 2018, Rennes, France. [[slides]](https://drive.google.com/open?id=1WCy3a15n1jBujCmyxCgPTWhKpFZkwMpx)
-- A. F. López-Lopera, F. Bachoc, N. Durrande, and O. Roustant, Finite-dimensional Gaussian approximation with linear inequality constraints, at SIAM-UQ 2018, Garden Grove, California, USA. [[slides]](https://drive.google.com/open?id=1cgclfmQXQ1jq9Ve3IE4J04i3mdq_NPRj)
-- A. F. López-Lopera, F. Bachoc, N. Durrande, and O. Roustant, Gaussian process regression models under linear inequality conditions, at Mascot-Num 2018, Nantes, France. [[poster]](https://drive.google.com/open?id=1IJi1QnaMTX59IP6dfUHwROITajeAWi-L)
+- A. F. López-Lopera, F. Bachoc, N. Durrande, and O. Roustant, Efficiently approximating Gaussian process emulators with inequality constraints using MC/MCMC, at MCQMC 2018, Rennes, France. [[slides]](https://github.com/anfelopera/anfelopera.github.io/blob/master/publications/conferences/MCQMC2018slides.pdf)
+- A. F. López-Lopera, F. Bachoc, N. Durrande, and O. Roustant, Finite-dimensional Gaussian approximation with linear inequality constraints, at SIAM-UQ 2018, Garden Grove, California, USA. [[slides]](https://github.com/anfelopera/anfelopera.github.io/blob/master/publications/conferences/SIAMUQ2018slides.pdf)
+- A. F. López-Lopera, F. Bachoc, N. Durrande, and O. Roustant, Gaussian process regression models under linear inequality conditions, at Mascot-Num 2018, Nantes, France. [[poster]](https://github.com/anfelopera/anfelopera.github.io/blob/master/publications/conferences/MascotNum2018poster.pdf)
 
 ---
 
 ## Software
-- lineqGPR: Gaussian Process Regression Models with Linear Inequality Constraints, R package. [[cran]](https://www.google.com/url?q=https%3A%2F%2Fcran.r-project.org%2Fweb%2Fpackages%2FlineqGPR%2Findex.html&sa=D) [[github]](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fanfelopera%2FlineqGPR&sa=D)
+- lineqGPR: Gaussian Process Regression Models with Linear Inequality Constraints, R package. [[cran]](https://cran.r-project.org/web/packages/lineqGPR/index.html) [[github]](https://github.com/anfelopera/lineqGPR)
 - PhysicallyGPDrosophila: Physically-inspired Gaussian process models for post-transcriptional regulation in Drosophila, R codes. [[github]](https://github.com/anfelopera/PhysicallyGPDrosophila)
-- SDLFM_ReverseEngineering: Switched latent force model for reverse-engineering transcriptional regulation in gene expression data, Matlab codes. [[github]](https://github.com/anfelopera/SDLFM_ReverseEngineering)
+- SDLFM\_ReverseEngineering: Switched latent force model for reverse-engineering transcriptional regulation in gene expression data, Matlab codes. [[github]](https://github.com/anfelopera/SDLFM_ReverseEngineering)
 ---
 
 ## Thesis
