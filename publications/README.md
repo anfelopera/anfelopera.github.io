@@ -25,9 +25,9 @@
 
 ## Other Conferences and Workshops
 - A. F. López-Lopera, lineqGPR: An R package for Gaussian process regression modelling with linear inequality constraints, at UseR! 2019, Toulouse, France.
-- A. F. López-Lopera, F. Bachoc, N. Durrande, and O. Roustant, Efficiently approximating Gaussian process emulators with inequality constraints using MC/MCMC, at MCQMC 2018, Rennes, France. [[slides]](https://github.com/anfelopera/anfelopera.github.io/blob/master/publications/conferences/MCQMC2018slides.pdf)
-- A. F. López-Lopera, F. Bachoc, N. Durrande, and O. Roustant, Finite-dimensional Gaussian approximation with linear inequality constraints, at SIAM-UQ 2018, Garden Grove, California, USA. [[slides]](https://github.com/anfelopera/anfelopera.github.io/blob/master/publications/conferences/SIAMUQ2018slides.pdf)
-- A. F. López-Lopera, F. Bachoc, N. Durrande, and O. Roustant, Gaussian process regression models under linear inequality conditions, at Mascot-Num 2018, Nantes, France. [[poster]](https://github.com/anfelopera/anfelopera.github.io/blob/master/publications/conferences/MascotNum2018poster.pdf)
+- A. F. López-Lopera, F. Bachoc, N. Durrande, and O. Roustant, Efficiently approximating Gaussian process emulators with inequality constraints using MC/MCMC, at MCQMC 2018, Rennes, France. [[slides]](https://github.com/anfelopera/anfelopera.github.io/raw/master/publications/conferences/MCQMC2018slides.pdf)
+- A. F. López-Lopera, F. Bachoc, N. Durrande, and O. Roustant, Finite-dimensional Gaussian approximation with linear inequality constraints, at SIAM-UQ 2018, Garden Grove, California, USA. [[slides]](https://github.com/anfelopera/anfelopera.github.io/raw/master/publications/conferences/SIAMUQ2018slides.pdf)
+- A. F. López-Lopera, F. Bachoc, N. Durrande, and O. Roustant, Gaussian process regression models under linear inequality conditions, at Mascot-Num 2018, Nantes, France. [[poster]](https://github.com/anfelopera/anfelopera.github.io/raw/master/publications/conferences/MascotNum2018poster.pdf)
 
 ---
 
@@ -39,6 +39,6 @@
 ---
 
 ## Thesis
-- A. F. López-Lopera, Gaussian process modelling under inequality constraints, PhD in Applied Mathematics, Mines Saint-Etienne, 2019. [[pdf]](https://github.com/anfelopera/anfelopera.github.io/blob/master/publications/thesis/LopezLopera2019_PhDThesis.pdf) [[slides]](https://github.com/anfelopera/anfelopera.github.io/blob/master/publications/thesis/LopezLopera2019_PhDSlides.pdf)
-- A. F. López-Lopera, Switched dynamical latent force models for transcriptional regulation, Master's thesis, Electrical Engineering Program, Universidad Tecnológica de Pereira, 2015. [[pdf]](https://github.com/anfelopera/anfelopera.github.io/blob/master/publications/thesis/LopezLopera2015_MScThesis.pdf)
-- A. F. López-Lopera, "Selección de la mejor base para la caracterización de perturbaciones en señales de calidad de potencia usando transformaciones tiempo/frecuencia" (in Spanish), Bachelor's thesis, Electrical Engineering Program, Universidad Tecnológica de Pereira, 2013. [[pdf]](https://github.com/anfelopera/anfelopera.github.io/blob/master/publications/thesis/LopezLopera2013_BScThesis.pdf)
+- A. F. López-Lopera, Gaussian process modelling under inequality constraints, PhD in Applied Mathematics, Mines Saint-Etienne, 2019. [[pdf]](https://github.com/anfelopera/anfelopera.github.io/raw/master/publications/thesis/LopezLopera2019_PhDThesis.pdf) [[slides]](https://github.com/anfelopera/anfelopera.github.io/raw/master/publications/thesis/LopezLopera2019_PhDSlides.pdf)
+- A. F. López-Lopera, Switched dynamical latent force models for transcriptional regulation, Master's thesis, Electrical Engineering Program, Universidad Tecnológica de Pereira, 2015. [[pdf]](https://github.com/anfelopera/anfelopera.github.io/raw/master/publications/thesis/LopezLopera2015_MScThesis.pdf)
+- A. F. López-Lopera, "Selección de la mejor base para la caracterización de perturbaciones en señales de calidad de potencia usando transformaciones tiempo/frecuencia" (in Spanish), Bachelor's thesis, Electrical Engineering Program, Universidad Tecnológica de Pereira, 2013. [[pdf]](https://github.com/anfelopera/anfelopera.github.io/raw/master/publications/thesis/LopezLopera2013_BScThesis.pdf)
