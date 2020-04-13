@@ -1,3 +1,3 @@
 ## Curriculum Vitae
 
-My curriculum vitae can be found [here](https://drive.google.com/open?id=1XzwGWESmP7EoKvVBW1aY4kwhgrgHyEbA) or my CvLAC in [here](https://www.google.com/url?q=http%3A%2F%2Fscienti.colciencias.gov.co%3A8081%2Fcvlac%2Fvisualizador%2FgenerarCurriculoCv.do%3Fcod_rh%3D0001527090&sa=D).
+My curriculum vitae can be found here: [[eng]](https://github.com/anfelopera/anfelopera.github.io/blob/master/CV/myCVa20200413eng.pdf) [[fr]](https://github.com/anfelopera/anfelopera.github.io/blob/master/CV/myCVa20200413fr.pdf) [[spa]](http://scienti.colciencias.gov.co:8081/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001527090).
