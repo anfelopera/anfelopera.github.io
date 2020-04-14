@@ -24,7 +24,7 @@
 ---
 
 ## Other Conferences and Workshops
-- A. F. López-Lopera, lineqGPR: An R package for Gaussian process regression modelling with linear inequality constraints, at UseR! 2019, Toulouse, France.
+- A. F. López-Lopera, lineqGPR: An R package for Gaussian process regression modelling with linear inequality constraints, at UseR! 2019, Toulouse, France. [[poster]](https://github.com/anfelopera/anfelopera.github.io/raw/master/publications/conferences/UseR2019poster.pdf)
 - A. F. López-Lopera, F. Bachoc, N. Durrande, and O. Roustant, Efficiently approximating Gaussian process emulators with inequality constraints using MC/MCMC, at MCQMC 2018, Rennes, France. [[slides]](https://github.com/anfelopera/anfelopera.github.io/raw/master/publications/conferences/MCQMC2018slides.pdf)
 - A. F. López-Lopera, F. Bachoc, N. Durrande, and O. Roustant, Finite-dimensional Gaussian approximation with linear inequality constraints, at SIAM-UQ 2018, Garden Grove, California, USA. [[slides]](https://github.com/anfelopera/anfelopera.github.io/raw/master/publications/conferences/SIAMUQ2018slides.pdf)
 - A. F. López-Lopera, F. Bachoc, N. Durrande, and O. Roustant, Gaussian process regression models under linear inequality conditions, at Mascot-Num 2018, Nantes, France. [[poster]](https://github.com/anfelopera/anfelopera.github.io/raw/master/publications/conferences/MascotNum2018poster.pdf)
