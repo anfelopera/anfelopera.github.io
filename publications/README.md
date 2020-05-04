@@ -15,7 +15,7 @@
 ---
 
 ## Proceedings in International Conferences
-- A. F. López-Lopera, F. Bachoc, N. Durrande, and O. Roustant, Approximating Gaussian process emulators with linear inequality constraints and noisy observations via MC and MCMC, to appear at MCQMC 2019, Rennes, France. [[preprint]](https://arxiv.org/abs/1901.04827)
+- A. F. López-Lopera, F. Bachoc, N. Durrande, J. Rohmer, D. Idier, and O. Roustant, Approximating Gaussian process emulators with linear inequality constraints and noisy observations via MC and MCMC, MCQMC 2019, Rennes, France. [[doi]](https://doi.org/10.1007/978-3-030-43465-6_18) [[preprint]](https://arxiv.org/abs/1901.04827)
 - A. F. López-Lopera, S. John, and N. Durrande, Gaussian process modulated Cox processes under linear inequality constraints, AISTATS 2019, Naha, Okinawa, Japan. [[url]](http://proceedings.mlr.press/v89/lopez-lopera19a.html) [[preprint]](http://arxiv.org/abs/1902.10974)
 - A. F. López-Lopera, M. A. Álvarez, and A. A. Orozco, Sparse linear models applied to power quality disturbance classification, CIARP 2016, Lima, Peru. [[doi]](https://link.springer.com/chapter/10.1007/978-3-319-52277-7_63) [[preprint]](http://arxiv.org/abs/1511.07281)
 - H. D. Cardona, A. F. López-Lopera, A. A. Orozco, M. A. Alvarez, J. A. Tamames, and N. Malpica, Gaussian processes for slice-based super-resolution MR images, ISVC 2015, Las Vegas, Nevada, USA. [[doi]](http://dx.doi.org/10.1007/978-3-319-27863-6_65)
