@@ -42,7 +42,9 @@
 - A. F. López-Lopera, Gaussian process modelling under inequality constraints, PhD in Applied Mathematics, [Mines Saint-Etienne](https://www.mines-stetienne.fr/), 2019. [[pdf]](https://github.com/anfelopera/anfelopera.github.io/raw/master/publications/thesis/LopezLopera2019_PhDThesis.pdf) [[slides]](https://github.com/anfelopera/anfelopera.github.io/raw/master/publications/thesis/LopezLopera2019_PhDSlides.pdf)
 - A. F. López-Lopera, Switched dynamical latent force models for transcriptional regulation, Master's thesis, Electrical Engineering Program, [Universidad Tecnológica de Pereira](https://www.utp.edu.co/), 2015. [[pdf]](https://github.com/anfelopera/anfelopera.github.io/raw/master/publications/thesis/LopezLopera2015_MScThesis.pdf)
 - A. F. López-Lopera, "Selección de la mejor base para la caracterización de perturbaciones en señales de calidad de potencia usando transformaciones tiempo/frecuencia" (in Spanish), Bachelor's thesis, Electrical Engineering Program, [Universidad Tecnológica de Pereira](https://www.utp.edu.co/), 2013. [[pdf]](https://github.com/anfelopera/anfelopera.github.io/raw/master/publications/thesis/LopezLopera2013_BScThesis.pdf)
-=======
+
+---
+
 ## Working Papers
 - A. F. López-Lopera, F. Bachoc, N. Durrande, and O. Roustant, Free-knot finite-dimensional approximation of Gaussian processes under inequality constraints. 
 - A. F. López-Lopera, N. Durrande, F. Bachoc, and O. Roustant, Additive Gaussian processes under linear inequality constraints.
