@@ -4,6 +4,7 @@
 - My research interests include applied mathematics, machine learning and computer science topics. More precisely, Gaussian processes, differential equations, and probabilistic models.
 
 ## News
+- Preprint paper: [*"Multi-Output Gaussian Processes with Functional Data: A Study on Coastal Flood Hazard Assessment"*](https://arxiv.org/abs/2007.14052), joint work with D. Idier, J. Rohmer, and F. Bachoc
 - Chapter published in **PROMS 2020**: [*"Approximating Gaussian Process Emulators with Linear Inequality Constraints and Noisy Observations via MC and MCMC"*](http://dx.doi.org/10.1007/978-3-030-43465-6_18), joint work with F. Bachoc, N. Durrande, J. Rohmer, D. Idier, and O. Roustant.
 - Paper published in **EJS 2019**: [*"Maximum likelihood estimation for Gaussian processes under inequality constraints"*](https://doi.org/10.1214/19-EJS1587), joint work with F. Bachoc and A. Lagnoux.
 - Accepted paper for publication at **IEEE-TCBB 2019**: [*"Physically-inspired Gaussian process models for post-transcriptional regulation in Drosophila"*](https://ieeexplore.ieee.org/document/8723187), joint work with N. Durrande and M. A. Alvarez.
