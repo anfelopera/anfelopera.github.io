@@ -1,6 +1,6 @@
 ## Working Papers
 - A. F. López-Lopera, D. Idier, J. Rohmer and F. Bachoc, Multi-output Gaussian processes with functional data: A study on coastal flood hazard assessment [[preprint]](https://arxiv.org/abs/2007.14052)
-- A. F. López-Lopera, F. Bachoc, and O. Roustant, Sequential construction and dimension reduction of Gaussian processes under inequality constraints
+- F. Bachoc, A. F. López-Lopera and O. Roustant, Sequential construction and dimension reduction of Gaussian processes under inequality constraints [[preprint]](https://arxiv.org/abs/2009.04188)
 - A. F. López-Lopera, N. Durrande, F. Bachoc, and O. Roustant, Additive Gaussian processes under linear inequality constraints
 - E. A. Valencia, C. K. Valencia, A. F. López-Lopera, and M. A. Alvarez, Distance measures for hidden Markov models based on Hilbert space embeddings for time series classification
 
