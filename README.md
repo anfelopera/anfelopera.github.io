@@ -1,5 +1,5 @@
 ## Summary
-- Postdoctoral researcher at [IMT](https://www.math.univ-toulouse.fr/) (Toulouse) – [BRGM](https://www.brgm.fr/) (Orléans), France. Research project: [**Risk-Based System for Coastal Flooding Early Warning (Riscope)**](https://perso.math.univ-toulouse.fr/riscope/).
+- Postdoctoral researcher at [ONERA](https://www.onera.fr/fr/centres/toulouse) (Toulouse), France. Research project: *Design of experiments and surrogate models for aerodynamic data*.
 - Ph.D. in Applied Mathematics at [Mines de Saint-Étienne](https://www.mines-stetienne.fr/), France. I worked under the supervision of [Prof. Olivier Roustant](https://olivier-roustant.fr/), [Ph.D. Nicolas Durrande](https://sites.google.com/site/nicolasdurrandehomepage/), and [Ph.D. François Bachoc](https://www.math.univ-toulouse.fr/~fbachoc/). The thesis was funded by the [**Chair in Applied Mathematics OQUAIDO**](https://oquaido.emse.fr/).
 - My research interests include applied mathematics, machine learning and computer science topics. More precisely, Gaussian processes, differential equations, and probabilistic models.
 
