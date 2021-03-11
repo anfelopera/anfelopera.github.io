@@ -33,13 +33,6 @@
 
 ---
 
-## Software
-- lineqGPR: Gaussian process regression models with linear inequality constraints [[R package]](https://github.com/anfelopera/lineqGPR) [[cran]](https://cran.r-project.org/web/packages/lineqGPR/index.html) 
-- PhysicallyGPDrosophila: Physically-inspired Gaussian process models for post-transcriptional regulation in Drosophila [[R codes]](https://github.com/anfelopera/PhysicallyGPDrosophila)
-- SDLFM\_ReverseEngineering: Switched latent force model for reverse-engineering transcriptional regulation in gene expression data [[Matlab codes]](https://github.com/anfelopera/SDLFM_ReverseEngineering)
-
----
-
 ## Thesis
 - A. F. López-Lopera, Gaussian process modelling under inequality constraints, PhD in Applied Mathematics, [Mines Saint-Etienne](https://www.mines-stetienne.fr/), 2019 [[url]](https://tel.archives-ouvertes.fr/tel-02863891) [[slides]](https://github.com/anfelopera/anfelopera.github.io/raw/master/publications/thesis/LopezLopera2019_PhDSlides.pdf)
 - A. F. López-Lopera, Switched dynamical latent force models for transcriptional regulation, Master's thesis, Electrical Engineering Program, [Universidad Tecnológica de Pereira](https://www.utp.edu.co/), 2015 [[pdf]](https://github.com/anfelopera/anfelopera.github.io/raw/master/publications/thesis/LopezLopera2015_MScThesis.pdf)
