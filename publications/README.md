@@ -1,4 +1,5 @@
 ## Working Papers
+- D. Idier, A. F. López-Lopera et al., A user-oriented local coastal flooding forecast and early warning system using metamodeling techniques
 - A. F. López-Lopera, D. Idier, J. Rohmer and F. Bachoc, Multi-output Gaussian processes with functional data: A study on coastal flood hazard assessment [[preprint]](https://arxiv.org/abs/2007.14052)
 - F. Bachoc, A. F. López-Lopera and O. Roustant, Sequential construction and dimension reduction of Gaussian processes under inequality constraints [[preprint]](https://arxiv.org/abs/2009.04188)
 - A. F. López-Lopera, N. Durrande, F. Bachoc, and O. Roustant, Additive Gaussian processes under linear inequality constraints
