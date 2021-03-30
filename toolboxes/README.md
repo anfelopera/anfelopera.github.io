@@ -1,6 +1,6 @@
 ## Python
 
-- (contributor) SMT -- Surrogate Modeling Toolbox [[github]](https://github.com/SMTorg) 
+- (contributor) SMT -- Surrogate Modeling Toolbox [[github]](https://github.com/SMTorg/smt) 
 - (contributor) SEGOMOE - Super Efficient Global Optimization with Mixture of Experts (private) [[reference]](https://core.ac.uk/download/pdf/199184646.pdf)
 
 ---
