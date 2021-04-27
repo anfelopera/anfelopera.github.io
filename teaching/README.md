@@ -8,4 +8,8 @@ They are based on Gaussian processes and related topics. More precisely,
 - Regularity conditions (e.g. continuity, differentiability) [[slides]](https://github.com/anfelopera/anfelopera.github.io/raw/master/teaching/INSA_GPs/slidesINSA_regularity_online.pdf)
 - An introduction to reproducing kernel Hilbert-spaces (RKHS)
 
-Since these lectures will take place on May 2021, they will strongly evolve.
+The Jupyter Notebooks for the practical sessions can be download here:
+[[Python]](https://github.com/anfelopera/anfelopera.github.io/raw/master/teaching/INSA_GPs/GP_lab_kernels_Python_students.ipynb)
+[[R]](https://github.com/anfelopera/anfelopera.github.io/raw/master/teaching/INSA_GPs/GP_lab_kernels_R_students.ipynb)
+
+Since these lectures will take place on May 2021, materials will strongly evolve.
