@@ -10,5 +10,3 @@ They are based on Gaussian processes and related topics. More precisely,
 
 The Jupyter Notebooks for the practical sessions can be download here:
 [[link]](https://github.com/anfelopera/anfelopera.github.io/raw/master/teaching/INSA_GPs/labs)
-
-Since these lectures will take place on May 2021, materials will strongly evolve.
