@@ -14,7 +14,7 @@ The Jupyter Notebooks for the practical sessions can be download here:
 ## UPHF -- 2021/2022 (Valenciennes, France)
 
 These lectures make part of a complete course on mathematics for the IUT-GEII at the Polytechnic University of Hauts-de-France (UPHF, acronym in French).
-The courses are taught in French.
+The courses are taught in French and they are currently in progress.
 
 ### S1
 
