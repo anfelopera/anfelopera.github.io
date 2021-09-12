@@ -11,9 +11,9 @@ They are based on Gaussian processes and related topics. More precisely,
 The Jupyter Notebooks for the practical sessions can be download here:
 [[link]](https://github.com/anfelopera/anfelopera.github.io/raw/master/teaching/INSA_GPs/labs)
 
-## UPHF -- 2021 - 2022 (Valenciennes, France)
+## UPHF -- 2021/2022 (Valenciennes, France)
 
-These lectures make part of a complete course on mathematics for the IUT-GEII at Polytechnic University of Hauts-de-France (UPHF, acronym in French).
+These lectures make part of a complete course on mathematics for the IUT-GEII at the Polytechnic University of Hauts-de-France (UPHF, acronym in French).
 The courses are taught in French.
 
 ### S1
@@ -29,5 +29,5 @@ The courses are taught in French.
 
 ### S3
 
-- Rational fractions [[slides]](https://github.com/anfelopera/anfelopera.github.io/raw/master/teaching/UPHF_Maths/S3/CM/S1_Fourier.pdf)
+- Fourier series [[slides]](https://github.com/anfelopera/anfelopera.github.io/raw/master/teaching/UPHF_Maths/S3/CM/S1_Fourier.pdf)
 
