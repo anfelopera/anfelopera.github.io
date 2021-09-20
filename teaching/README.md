@@ -17,16 +17,15 @@ These lectures make part of a complete course on mathematics for the IUT-GEII at
 The courses are taught in French and they are currently in progress.
 
 ### S1
-
 - Preliminar exercises [[slides]](https://github.com/anfelopera/anfelopera.github.io/raw/master/teaching/UPHF_Maths/S1/CM/S0_mise_a_niveau.pdf)
 - Trigonometry [[slides]](https://github.com/anfelopera/anfelopera.github.io/raw/master/teaching/UPHF_Maths/S1/CM/S1_trigonometrie.pdf)
+- Complex numbers [[slides]](https://github.com/anfelopera/anfelopera.github.io/raw/master/teaching/UPHF_Maths/S1/CM/S2_complexes.pdf)
 
 ### S2
-- Complex numbers [[slides]](https://github.com/anfelopera/anfelopera.github.io/raw/master/teaching/UPHF_Maths/S1/CM/S2_complexes.pdf)
 - Rational fractions [[slides]](https://github.com/anfelopera/anfelopera.github.io/raw/master/teaching/UPHF_Maths/S2/CM/S2_frac_rationnelles.pdf)
 - Laplace transform [[slides]](https://github.com/anfelopera/anfelopera.github.io/raw/master/teaching/UPHF_Maths/S2/CM/S6_Laplace.pdf)
 
 ### S3
-
 - Fourier series [[slides]](https://github.com/anfelopera/anfelopera.github.io/raw/master/teaching/UPHF_Maths/S3/CM/S1_Fourier.pdf)
-
+- Convolution [[slides]](https://github.com/anfelopera/anfelopera.github.io/raw/master/teaching/UPHF_Maths/S3/CM/S2_convolution.pdf)
+- Numerical sequences [[slides]](https://github.com/anfelopera/anfelopera.github.io/raw/master/teaching/UPHF_Maths/S3/CM/S3_suites.pdf)
