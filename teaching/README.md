@@ -30,7 +30,7 @@ The courses are taught in French and they are currently in progress.
 - Convolution [[slides]](https://github.com/anfelopera/anfelopera.github.io/raw/master/teaching/UPHF_Maths/S3/CM/S2_convolution.pdf)
 - Numerical sequences [[slides]](https://github.com/anfelopera/anfelopera.github.io/raw/master/teaching/UPHF_Maths/S3/CM/S3_suites.pdf)
 - Numerical series [[slides]](https://github.com/anfelopera/anfelopera.github.io/raw/master/teaching/UPHF_Maths/S3/CM/S4_series_num.pdf)
-- Power series [[slides]](https://github.com/anfelopera/anfelopera.github.io/raw/master/teaching/UPHF_Maths/S3/CM/S4_series_entieres.pdf)
+- Introduction to power series [[slides]](https://github.com/anfelopera/anfelopera.github.io/raw/master/teaching/UPHF_Maths/S3/CM/S4_series_entieres.pdf)
 
 
 
