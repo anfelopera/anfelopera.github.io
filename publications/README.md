@@ -16,6 +16,7 @@
 ---
 
 ## Proceedings in International Conferences
+- R. Conde-Arenzana, A. F. López-Lopera, S. Mouton, N. Bartoli and T. Lefebvre, Multi-Fidelity Gaussian Process Model for CFD and Wind Tunnel Data Fusion, at Aerobest 2021 [[preprint]](https://hal.archives-ouvertes.fr/hal-03346321/)
 - A. F. López-Lopera, F. Bachoc, N. Durrande, J. Rohmer, D. Idier and O. Roustant, Approximating Gaussian process emulators with linear inequality constraints and noisy observations via MC and MCMC, MCQMC 2019, Rennes, France [[doi]](https://doi.org/10.1007/978-3-030-43465-6_18) [[preprint]](https://arxiv.org/abs/1901.04827)
 - A. F. López-Lopera, S. John and N. Durrande, Gaussian process modulated Cox processes under linear inequality constraints, AISTATS 2019, Naha, Okinawa, Japan [[url]](http://proceedings.mlr.press/v89/lopez-lopera19a.html) [[preprint]](http://arxiv.org/abs/1902.10974)
 - A. F. López-Lopera, M. A. Álvarez and A. A. Orozco, Sparse linear models applied to power quality disturbance classification, CIARP 2016, Lima, Peru [[doi]](https://link.springer.com/chapter/10.1007/978-3-319-52277-7_63) [[preprint]](http://arxiv.org/abs/1511.07281)
