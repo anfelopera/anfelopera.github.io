@@ -20,6 +20,7 @@ The courses are taught in French and they are currently in progress.
 - Preliminar exercises [[slides]](https://github.com/anfelopera/anfelopera.github.io/raw/master/teaching/UPHF_Maths/S1/CM/S0_mise_a_niveau.pdf)
 - Trigonometry [[slides]](https://github.com/anfelopera/anfelopera.github.io/raw/master/teaching/UPHF_Maths/S1/CM/S1_trigonometrie.pdf)
 - Complex numbers [[slides]](https://github.com/anfelopera/anfelopera.github.io/raw/master/teaching/UPHF_Maths/S1/CM/S2_complexes.pdf)
+- Numeric functions [[slides]](https://github.com/anfelopera/anfelopera.github.io/raw/master/teaching/UPHF_Maths/S1/CM/S3_fonctions.pdf)
 
 ### S2
 - Rational fractions [[slides]](https://github.com/anfelopera/anfelopera.github.io/raw/master/teaching/UPHF_Maths/S2/CM/S2_frac_rationnelles.pdf)
