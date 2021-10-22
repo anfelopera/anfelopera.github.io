@@ -1,5 +1,4 @@
 ## Working Papers
-- D. Idier, A. F. López-Lopera et al., A user-oriented local coastal flooding forecast and early warning system using metamodeling techniques
 - F. Bachoc, A. F. López-Lopera and O. Roustant, Sequential construction and dimension reduction of Gaussian processes under inequality constraints [[preprint]](https://arxiv.org/abs/2009.04188)
 - A. F. López-Lopera, N. Durrande, F. Bachoc, and O. Roustant, Additive Gaussian processes under linear inequality constraints
 - E. A. Valencia, C. K. Valencia, A. F. López-Lopera, and M. A. Alvarez, Distance measures for hidden Markov models based on Hilbert space embeddings for time series classification
@@ -8,6 +7,7 @@
 
 ## Publications in International Journals
 - A. F. López-Lopera, D. Idier, J. Rohmer and F. Bachoc, Multioutput Gaussian processes with functional data: A study on coastal flood hazard assessment, accepted for publication in Reliability Engineering and System Safety [[preprint]](https://arxiv.org/abs/2007.14052)
+- D. Idier, A. F. López-Lopera et al., A user-oriented local coastal flooding forecast and early warning system using metamodeling techniques, accepted for publication in Journal of Marine Science and Engineering
 - A. F. López-Lopera, N. Durrande and M. A. Alvarez, Physically-inspired Gaussian process models for post-transcriptional regulation in Drosophila, IEEE/ACM Transaction on Computational Biology and Bioinformatics, 18(2):656-666, 2021 [[doi]](https://doi.org/10.1109/TCBB.2019.2918774) [[preprint]](https://arxiv.org/abs/1808.10026) [[github]](https://github.com/anfelopera/PhysicallyGPDrosophila)
 - F. Bachoc, A. Lagnoux and A. F. López-Lopera, Maximum likelihood estimation for Gaussian processes under inequality constraints, Electronic Journal of Statistics, 13(2): 2921–2969, 2019 [[doi]](https://doi.org/10.1214/19-EJS1587) [[preprint]](https://arxiv.org/abs/1804.03378)
 - A. F. López-Lopera, N. Durrande, F. Bachoc and O. Roustant, Finite-dimensional Gaussian approximation with linear inequality constraints, SIAM/ASA Journal on Uncertainty Quantification, 6(3):1224–1255, 2018 [[doi]](https://doi.org/10.1137/17M1153157) [[preprint]](https://arxiv.org/abs/1710.07453) [[cran]](https://cran.r-project.org/web/packages/lineqGPR/index.html) [[github]](https://github.com/anfelopera/lineqGPR)

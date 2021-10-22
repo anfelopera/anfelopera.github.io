@@ -7,6 +7,6 @@
 
 ## News
 - The paper [*"Multioutput Gaussian processes with functional data: A study on coastal flood hazard assessment"*](https://arxiv.org/abs/2007.14052), joint work with D. Idier, J. Rohmer and F. Bachoc, has been accepted for publication in [JRESS](https://www.journals.elsevier.com/reliability-engineering-and-system-safety)
+- The paper [*"A user-oriented local coastal flooding early warning system using metamodeling techniques"*](https://arxiv.org/abs/2007.14052), joint work with D. Idier, J. Rohmer and F. Bachoc et al., has been accepted for publication in [JMSE](https://www.mdpi.com/journal/jmse)
 - The paper [*"Physically-inspired Gaussian process models for post-transcriptional regulation in Drosophila"*](https://doi.org/10.1109/TCBB.2019.2918774), a joint work with N. Durrande and M. Alvarez, is officially published in [IEEE-TCBB](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8857)
 - Preprint paper: [*"Sequential construction and dimension reduction of Gaussian processes under inequality constraints"*](https://arxiv.org/abs/2009.04188), joint work with F. Bachoc and O. Roustant.
-- Chapter published in **PROMS 2020**: [*"Approximating Gaussian process emulators with linear inequality constraints and noisy observations via MC and MCMC"*](http://dx.doi.org/10.1007/978-3-030-43465-6_18), joint work with F. Bachoc, N. Durrande, J. Rohmer, D. Idier, and O. Roustant.
