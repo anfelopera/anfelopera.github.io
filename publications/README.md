@@ -1,15 +1,15 @@
 ## Working Papers
-- F. Bachoc, A. F. López-Lopera and O. Roustant, Sequential construction and dimension reduction of Gaussian processes under inequality constraints [[preprint]](https://arxiv.org/abs/2009.04188)
+- F. Bachoc, A. F. López-Lopera and O. Roustant, Sequential construction and dimension reduction of Gaussian processes under inequality constraints [[preprint]](https://arxiv.org/abs/2009.04188) [[github]](https://github.com/anfelopera/lineqGPR)
 - A. F. López-Lopera, N. Durrande, F. Bachoc, and O. Roustant, Additive Gaussian processes under linear inequality constraints
 - E. A. Valencia, C. K. Valencia, A. F. López-Lopera, and M. A. Alvarez, Distance measures for hidden Markov models based on Hilbert space embeddings for time series classification
 
 ---
 
 ## Publications in International Journals
-- A. F. López-Lopera, D. Idier, J. Rohmer and F. Bachoc, Multioutput Gaussian processes with functional data: A study on coastal flood hazard assessment, Reliability Engineering and System Safety 218: 108139, 2022. [[doi]](https://doi.org/10.1016/j.ress.2021.108139) [[preprint]](https://arxiv.org/abs/2007.14052) [[github]](https://github.com/anfelopera/spatfGPs)
-- D. Idier, A. F. López-Lopera et al., A user-oriented local coastal flooding forecast and early warning system using metamodeling techniques, Journal of Marine Science and Engineering 9(11): 1191, 2021. [[doi]](https://doi.org/10.3390/jmse9111191)
+- A. F. López-Lopera, D. Idier, J. Rohmer and F. Bachoc, Multioutput Gaussian processes with functional data: A study on coastal flood hazard assessment, Reliability Engineering and System Safety 218: 108139, 2022 [[doi]](https://doi.org/10.1016/j.ress.2021.108139) [[preprint]](https://arxiv.org/abs/2007.14052) [[github]](https://github.com/anfelopera/spatfGPs)
+- D. Idier, A. F. López-Lopera et al., A user-oriented local coastal flooding forecast and early warning system using metamodeling techniques, Journal of Marine Science and Engineering 9(11): 1191, 2021 [[doi]](https://doi.org/10.3390/jmse9111191)
 - A. F. López-Lopera, N. Durrande and M. A. Alvarez, Physically-inspired Gaussian process models for post-transcriptional regulation in Drosophila, IEEE/ACM Transaction on Computational Biology and Bioinformatics, 18(2):656-666, 2021 [[doi]](https://doi.org/10.1109/TCBB.2019.2918774) [[preprint]](https://arxiv.org/abs/1808.10026) [[github]](https://github.com/anfelopera/PhysicallyGPDrosophila)
-- F. Bachoc, A. Lagnoux and A. F. López-Lopera, Maximum likelihood estimation for Gaussian processes under inequality constraints, Electronic Journal of Statistics, 13(2): 2921–2969, 2019 [[doi]](https://doi.org/10.1214/19-EJS1587) [[preprint]](https://arxiv.org/abs/1804.03378) [[github]](https://github.com/anfelopera/lineqGPR)
+- F. Bachoc, A. Lagnoux and A. F. López-Lopera, Maximum likelihood estimation for Gaussian processes under inequality constraints, Electronic Journal of Statistics, 13(2): 2921–2969, 2019 [[doi]](https://doi.org/10.1214/19-EJS1587) [[preprint]](https://arxiv.org/abs/1804.03378)
 - A. F. López-Lopera, N. Durrande, F. Bachoc and O. Roustant, Finite-dimensional Gaussian approximation with linear inequality constraints, SIAM/ASA Journal on Uncertainty Quantification, 6(3):1224–1255, 2018 [[doi]](https://doi.org/10.1137/17M1153157) [[preprint]](https://arxiv.org/abs/1710.07453) [[cran]](https://cran.r-project.org/web/packages/lineqGPR/index.html) [[github]](https://github.com/anfelopera/lineqGPR)
 - A. F. López-Lopera and M. A. Alvarez, Switched latent force models for reverse-engineering transcriptional regulation in gene expression data, IEEE/ACM Transaction on Computational Biology and Bioinformatics, 16(1):322–335, 2017 [[doi]](https://doi.org/10.1109/TCBB.2017.2764908) [[preprint]](https://arxiv.org/abs/1511.07334) [[github]](https://github.com/anfelopera/SDLFM_ReverseEngineering)
 
