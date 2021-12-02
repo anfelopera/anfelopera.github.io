@@ -16,25 +16,8 @@ The Jupyter Notebooks for the practical sessions can be download here:
 These lectures make part of a complete course on mathematics for the IUT-GEII at the Polytechnic University of Hauts-de-France (UPHF, acronym in French).
 The courses are taught in French and they are currently in progress.
 
-### S1
-- Preliminar exercises [[slides]](https://github.com/anfelopera/anfelopera.github.io/raw/master/teaching/UPHF_Maths/S1/CM/S0_mise_a_niveau.pdf)
-- Trigonometry [[slides]](https://github.com/anfelopera/anfelopera.github.io/raw/master/teaching/UPHF_Maths/S1/CM/S1_trigonometrie.pdf)
-- Complex numbers [[slides]](https://github.com/anfelopera/anfelopera.github.io/raw/master/teaching/UPHF_Maths/S1/CM/S2_complexes.pdf)
-- Numeric functions [[slides]](https://github.com/anfelopera/anfelopera.github.io/raw/master/teaching/UPHF_Maths/S1/CM/S3_fonctions.pdf)
-- Derivatives [[slides]](https://github.com/anfelopera/anfelopera.github.io/raw/master/teaching/UPHF_Maths/S1/CM/S3_derivee.pdf)
-- ODE 1 [[slides]](https://github.com/anfelopera/anfelopera.github.io/raw/master/teaching/UPHF_Maths/S1/CM/S3_ODE1.pdf)
-
-### S2
-- Rational fractions [[slides]](https://github.com/anfelopera/anfelopera.github.io/raw/master/teaching/UPHF_Maths/S2/CM/S2_frac_rationnelles.pdf)
-- Laplace transform [[slides]](https://github.com/anfelopera/anfelopera.github.io/raw/master/teaching/UPHF_Maths/S2/CM/S6_Laplace.pdf)
-
-### S3
-- Fourier series [[slides]](https://github.com/anfelopera/anfelopera.github.io/raw/master/teaching/UPHF_Maths/S3/CM/S1_Fourier.pdf)
-- Convolution [[slides]](https://github.com/anfelopera/anfelopera.github.io/raw/master/teaching/UPHF_Maths/S3/CM/S2_convolution.pdf)
-- Numerical sequences [[slides]](https://github.com/anfelopera/anfelopera.github.io/raw/master/teaching/UPHF_Maths/S3/CM/S3_suites.pdf)
-- Numerical series [[slides]](https://github.com/anfelopera/anfelopera.github.io/raw/master/teaching/UPHF_Maths/S3/CM/S4_series_num.pdf)
-- Introduction to power series [[slides]](https://github.com/anfelopera/anfelopera.github.io/raw/master/teaching/UPHF_Maths/S3/CM/S4_series_entieres.pdf)
-
-
-
-
+| Semester | Topics |
+|----|----|
+| S1 | - Preliminar exercises [[slides]](https://github.com/anfelopera/anfelopera.github.io/raw/master/teaching/UPHF_Maths/S1/CM/S0_mise_a_niveau.pdf) <br/> - Trigonometry [[slides]](https://github.com/anfelopera/anfelopera.github.io/raw/master/teaching/UPHF_Maths/S1/CM/S1_trigonometrie.pdf) <br/>  - Complex numbers [[slides]](https://github.com/anfelopera/anfelopera.github.io/raw/master/teaching/UPHF_Maths/S1/CM/S2_complexes.pdf) <br/> - Numeric functions [[slides]](https://github.com/anfelopera/anfelopera.github.io/raw/master/teaching/UPHF_Maths/S1/CM/S3_fonctions.pdf) <br/> - Derivatives [[slides]](https://github.com/anfelopera/anfelopera.github.io/raw/master/teaching/UPHF_Maths/S1/CM/S3_derivee.pdf) <br/> - ODE 1 [[slides]](https://github.com/anfelopera/anfelopera.github.io/raw/master/teaching/UPHF_Maths/S1/CM/S3_ODE1.pdf) |
+| S2 | - Rational fractions [[slides]](https://github.com/anfelopera/anfelopera.github.io/raw/master/teaching/UPHF_Maths/S2/CM/S2_frac_rationnelles.pdf) <br/> - Laplace transform [[slides]](https://github.com/anfelopera/anfelopera.github.io/raw/master/teaching/UPHF_Maths/S2/CM/S6_Laplace.pdf) |
+| S3 | - Fourier series [[slides]](https://github.com/anfelopera/anfelopera.github.io/raw/master/teaching/UPHF_Maths/S3/CM/S1_Fourier.pdf)  <br/> - Convolution [[slides]](https://github.com/anfelopera/anfelopera.github.io/raw/master/teaching/UPHF_Maths/S3/CM/S2_convolution.pdf) <br/> - Numerical sequences [[slides]](https://github.com/anfelopera/anfelopera.github.io/raw/master/teaching/UPHF_Maths/S3/CM/S3_suites.pdf) <br/> - Numerical series [[slides]](https://github.com/anfelopera/anfelopera.github.io/raw/master/teaching/UPHF_Maths/S3/CM/S4_series_num.pdf) <br/> - Introduction to power series [[slides]](https://github.com/anfelopera/anfelopera.github.io/raw/master/teaching/UPHF_Maths/S3/CM/S4_series_entieres.pdf)|
