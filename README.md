@@ -1,8 +1,9 @@
 ## Summary
-- Associate professor (Maître de Conférences) at [Université Polytechnique Hauts-de-France (UPHF)](https://www.uphf.fr/), Valenciennes, France. 
-- Postdoctoral researcher at [the French Aerospace Lab ONERA](https://www.onera.fr/fr/centres/toulouse) (Toulouse), France. Research project: *Design of experiments and surrogate models for aerodynamic data*.
-- Ph.D. in Applied Mathematics at [Mines de Saint-Étienne](https://www.mines-stetienne.fr/), France. I worked under the supervision of [Prof. Olivier Roustant](https://olivier-roustant.fr/), [Ph.D. Nicolas Durrande](https://sites.google.com/site/nicolasdurrandehomepage/), and [Ph.D. François Bachoc](https://www.math.univ-toulouse.fr/~fbachoc/). The thesis was funded by the [**Chair in Applied Mathematics OQUAIDO**](https://oquaido.emse.fr/) [[activity report]](https://hal.archives-ouvertes.fr/hal-03217277)
-- M.Sc. in Electrical Engineering at [Universidad Tecnólogica de Pereira](https://www.utp.edu.co/), Colombia. I worked under the supervision of [Ph.D. Mauricio Álvarez](https://www.sheffield.ac.uk/dcs/people/academic/mauricio-alvarez).
+- Associate professor (Maître de Conférences, since 2021) at [Université Polytechnique Hauts-de-France (UPHF)](https://www.uphf.fr/), Valenciennes, France. 
+- Postdoctoral researcher (2020-2021) at [the French Aerospace Lab ONERA](https://www.onera.fr/fr/centres/toulouse) (Toulouse), France. Research project: *Design of experiments and surrogate models for aerodynamic data*.
+- Postdoctoral researcher (2019-2020) at [IMT](https://www.math.univ-toulouse.fr/) and [BRGM](https://www.brgm.fr/fr), France. ANR Research project: *Risk-based system for coastal flooding early warning (RISCOPE)*.
+- Ph.D. in Applied Mathematics (2016-2019) at [Mines de Saint-Étienne](https://www.mines-stetienne.fr/), France. I worked under the supervision of [Prof. Olivier Roustant](https://olivier-roustant.fr/), [Ph.D. Nicolas Durrande](https://sites.google.com/site/nicolasdurrandehomepage/), and [Ph.D. François Bachoc](https://www.math.univ-toulouse.fr/~fbachoc/). The thesis was funded by the [**Chair in Applied Mathematics OQUAIDO**](https://oquaido.emse.fr/) [[activity report]](https://hal.archives-ouvertes.fr/hal-03217277)
+- M.Sc. in Electrical Engineering (2013-2015) at [Universidad Tecnólogica de Pereira](https://www.utp.edu.co/), Colombia. I worked under the supervision of [Ph.D. Mauricio Álvarez](https://www.sheffield.ac.uk/dcs/people/academic/mauricio-alvarez).
 - My research interests include applied mathematics, machine learning and computer science topics. More precisely, Gaussian processes, differential equations, and probabilistic models.
 
 ## News

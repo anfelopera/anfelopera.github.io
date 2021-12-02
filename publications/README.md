@@ -16,7 +16,7 @@
 ---
 
 ## Proceedings in International Conferences
-- R. Conde-Arenzana, A. F. López-Lopera, S. Mouton, N. Bartoli and T. Lefebvre, Multi-fidelity Gaussian process model for CFD and wind tunnel data fusion, Aerobest 2021, Lisbon, Portugal (online) [[preprint]](https://hal.archives-ouvertes.fr/hal-03346321/)
+- R. Conde-Arenzana, A. F. López-Lopera, S. Mouton, N. Bartoli and T. Lefebvre, Multi-fidelity Gaussian process model for CFD and wind tunnel data fusion, Aerobest 2021, Lisbon, Portugal (online) [[url]](https://aerobest2021.idmec.tecnico.ulisboa.pt/publications/#proceedings) [[preprint]](https://hal.archives-ouvertes.fr/hal-03346321/)
 - A. F. López-Lopera, F. Bachoc, N. Durrande, J. Rohmer, D. Idier and O. Roustant, Approximating Gaussian process emulators with linear inequality constraints and noisy observations via MC and MCMC, MCQMC 2019, Rennes, France [[doi]](https://doi.org/10.1007/978-3-030-43465-6_18) [[preprint]](https://arxiv.org/abs/1901.04827)
 - A. F. López-Lopera, S. John and N. Durrande, Gaussian process modulated Cox processes under linear inequality constraints, AISTATS 2019, Okinawa, Japan [[url]](http://proceedings.mlr.press/v89/lopez-lopera19a.html) [[preprint]](http://arxiv.org/abs/1902.10974)
 - A. F. López-Lopera, M. A. Álvarez and A. A. Orozco, Sparse linear models applied to power quality disturbance classification, CIARP 2016, Lima, Peru [[doi]](https://link.springer.com/chapter/10.1007/978-3-319-52277-7_63) [[preprint]](http://arxiv.org/abs/1511.07281)
@@ -27,12 +27,12 @@
 ---
 
 ## Other Conferences and Workshops
-- A. F. López-Lopera, N. Bartoli, T. Lefebvre and S. Mouton, Data fusion with multifidelity Gaussian processes for aerodynamic experimental and numerical databases, at SIAM-CSE 2021 (online) [[slides]](https://hal.archives-ouvertes.fr/hal-03196283)
-- F. Bachoc, A. F. López-Lopera, and O. Roustant, Gaussian processes under inequality constraints: Sequential construction and dimension reduction, at Workshop IMT (France) & University of Bern (Swiss), 2020 [[slides]](https://github.com/anfelopera/anfelopera.github.io/raw/master/publications/conferences/IMTBern2020slides.pdf)
-- A. F. López-Lopera, lineqGPR: An R package for Gaussian process regression modelling with linear inequality constraints, at UseR! 2019, Toulouse, France [[poster]](https://github.com/anfelopera/anfelopera.github.io/raw/master/publications/conferences/UseR2019poster.pdf)
-- A. F. López-Lopera, F. Bachoc, N. Durrande and O. Roustant, Efficiently approximating Gaussian process emulators with inequality constraints using MC/MCMC, at MCQMC 2018, Rennes, France [[slides]](https://github.com/anfelopera/anfelopera.github.io/raw/master/publications/conferences/MCQMC2018slides.pdf)
-- A. F. López-Lopera, F. Bachoc, N. Durrande and O. Roustant, Finite-dimensional Gaussian approximation with linear inequality constraints, at SIAM-UQ 2018, Garden Grove, California, USA [[slides]](https://github.com/anfelopera/anfelopera.github.io/raw/master/publications/conferences/SIAMUQ2018slides.pdf)
-- A. F. López-Lopera, F. Bachoc, N. Durrande and O. Roustant, Gaussian process regression models under linear inequality conditions, at Mascot-Num 2018, Nantes, France [[poster]](https://github.com/anfelopera/anfelopera.github.io/raw/master/publications/conferences/MascotNum2018poster.pdf)
+- A. F. López-Lopera, N. Bartoli, T. Lefebvre and S. Mouton, Data fusion with multifidelity Gaussian processes for aerodynamic experimental and numerical databases, SIAM-CSE 2021 (online) [[slides]](https://hal.archives-ouvertes.fr/hal-03196283)
+- F. Bachoc, A. F. López-Lopera, and O. Roustant, Gaussian processes under inequality constraints: Sequential construction and dimension reduction, Workshop IMT (France) & University of Bern (Swiss), 2020 [[slides]](https://github.com/anfelopera/anfelopera.github.io/raw/master/publications/conferences/IMTBern2020slides.pdf)
+- A. F. López-Lopera, lineqGPR: An R package for Gaussian process regression modelling with linear inequality constraints, UseR! 2019, Toulouse, France [[poster]](https://github.com/anfelopera/anfelopera.github.io/raw/master/publications/conferences/UseR2019poster.pdf)
+- A. F. López-Lopera, F. Bachoc, N. Durrande and O. Roustant, Efficiently approximating Gaussian process emulators with inequality constraints using MC/MCMC, MCQMC 2018, Rennes, France [[slides]](https://github.com/anfelopera/anfelopera.github.io/raw/master/publications/conferences/MCQMC2018slides.pdf)
+- A. F. López-Lopera, F. Bachoc, N. Durrande and O. Roustant, Finite-dimensional Gaussian approximation with linear inequality constraints, SIAM-UQ 2018, Garden Grove, California, USA [[slides]](https://github.com/anfelopera/anfelopera.github.io/raw/master/publications/conferences/SIAMUQ2018slides.pdf)
+- A. F. López-Lopera, F. Bachoc, N. Durrande and O. Roustant, Gaussian process regression models under linear inequality conditions, Mascot-Num 2018, Nantes, France [[poster]](https://github.com/anfelopera/anfelopera.github.io/raw/master/publications/conferences/MascotNum2018poster.pdf)
 
 ---
 
