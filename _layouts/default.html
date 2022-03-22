@@ -23,8 +23,30 @@
         {% if site.orcid %}
         <br><class="view"><a href="{{ site.orcid }}" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0001-6261-8699</a><br>
         {% endif %}
+	
+	<small>Other links of interest:</small><br>
+        
+        {% if site.github.is_user_page %}
+        <small><class="view"><a href="{{ site.github.owner_url }}" target="github.widget" rel="noopener noreferrer">GitHub </a></small>
+        {% endif %}
+        
+        {% if site.gscholar %}
+        <small><class="view"><a href="{{ site.gscholar }}" target="github.widget" rel="noopener noreferrer"> Goole Scholar </a></small>
+        {% endif %}
+
+	{% if site.HAL %}
+        <small><class="view"><a href="{{ site.HAL }}" target="HAL.widget" rel="noopener noreferrer"> HAL </a></p></small>
+        {% endif %}
           
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
+        {% if site.researchgate %}
+        <small><class="view"><a href="{{ site.researchgate }}" target="researchgate.widget" rel="noopener noreferrer"> ResearchGate </a></small>
+        {% endif %}
+          
+        {% if site.linkedin %}
+        <small><class="view"><a href="{{ site.linkedin }}" target="linkedin.widget" rel="noopener noreferrer"> LinkedIn </a></p></small>
+        {% endif %}
+          
+        <p>{{ site.description | default: site.github.project_tagline }}</p>	
         
         {% if site.bookmarks %}
         <p>{{ site.bookmarks | default: site.github.project_tagline }}</p>
@@ -49,28 +71,7 @@
           <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
         </ul>
         {% endif %}
-        
-        <small>Other links of interest:</small><br>
-        
-        {% if site.github.is_user_page %}
-        <small><class="view"><a href="{{ site.github.owner_url }}" target="github.widget" rel="noopener noreferrer">GitHub </a></small>
-        {% endif %}
-        
-        {% if site.gscholar %}
-        <small><class="view"><a href="{{ site.gscholar }}" target="github.widget" rel="noopener noreferrer"> Goole Scholar </a></small>
-        {% endif %}
 
-	{% if site.HAL %}
-        <small><class="view"><a href="{{ site.HAL }}" target="HAL.widget" rel="noopener noreferrer"> HAL </a></p></small>
-        {% endif %}
-          
-        {% if site.researchgate %}
-        <small><class="view"><a href="{{ site.researchgate }}" target="researchgate.widget" rel="noopener noreferrer"> ResearchGate </a></small>
-        {% endif %}
-          
-        {% if site.linkedin %}
-        <small><class="view"><a href="{{ site.linkedin }}" target="linkedin.widget" rel="noopener noreferrer"> LinkedIn </a></p></small>
-        {% endif %}
       </header>
       <section>
 
