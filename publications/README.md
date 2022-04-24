@@ -1,11 +1,11 @@
 ## Working Papers
-- F. Bachoc, A. F. López-Lopera and O. Roustant, Sequential construction and dimension reduction of Gaussian processes under inequality constraints [[preprint]](https://arxiv.org/abs/2009.04188) [[github]](https://github.com/anfelopera/lineqGPR)
-- A. F. López-Lopera, N. Durrande, F. Bachoc, and O. Roustant, Additive Gaussian processes under linear inequality constraints
+- A. F. López-Lopera, F. Bachoc, and O. Roustant, Additive Gaussian Processes with Linear Inequality Constraints
 - E. A. Valencia, C. K. Valencia, A. F. López-Lopera, and M. A. Alvarez, Distance measures for hidden Markov models based on Hilbert space embeddings for time series classification
 
 ---
 
 ## Publications in International Journals
+- F. Bachoc, A. F. López-Lopera and O. Roustant, Sequential construction and dimension reduction of Gaussian processes under inequality constraints, accepted for publication in SIAM Journal on Mathematics of Data Science [[preprint]](https://arxiv.org/abs/2009.04188) [[github]](https://github.com/anfelopera/lineqGPR)
 - A. F. López-Lopera, D. Idier, J. Rohmer and F. Bachoc, Multioutput Gaussian processes with functional data: A study on coastal flood hazard assessment, Reliability Engineering and System Safety 218: 108139, 2022 [[doi]](https://doi.org/10.1016/j.ress.2021.108139) [[preprint]](https://arxiv.org/abs/2007.14052) [[github]](https://github.com/anfelopera/spatfGPs)
 - D. Idier, A. F. López-Lopera et al., A user-oriented local coastal flooding forecast and early warning system using metamodeling techniques, Journal of Marine Science and Engineering 9(11): 1191, 2021 [[doi]](https://doi.org/10.3390/jmse9111191)
 - A. F. López-Lopera, N. Durrande and M. A. Alvarez, Physically-inspired Gaussian process models for post-transcriptional regulation in Drosophila, IEEE/ACM Transaction on Computational Biology and Bioinformatics, 18(2):656-666, 2021 [[doi]](https://doi.org/10.1109/TCBB.2019.2918774) [[preprint]](https://arxiv.org/abs/1808.10026) [[github]](https://github.com/anfelopera/PhysicallyGPDrosophila)
@@ -27,12 +27,14 @@
 ---
 
 ## Other Conferences and Workshops
+- A. F. López-Lopera, N. Durrande and M. A. Alvarez, Physically-inspired Gaussian processes: Application in biology, SIAM-UQ 2022, Atlanta, Georgia, USA [[slides]](https://github.com/anfelopera/anfelopera.github.io/raw/master/publications/conferences/2022_SIAMUQ_slides.pdf)
+- A. F. López-Lopera, D. Idier, J. Rohmer and F. Bachoc, Fast prediction of coastal flood hazard assessment: A multi-output Gaussian process metamodelling approach, RISCOPE ANR project: Final workshop 2022, Orléans, France [[slides]](https://github.com/anfelopera/anfelopera.github.io/raw/master/publications/conferences/2022_RISCOPE_slides.pdf)
 - A. F. López-Lopera, N. Bartoli, T. Lefebvre and S. Mouton, Data fusion with multifidelity Gaussian processes for aerodynamic experimental and numerical databases, SIAM-CSE 2021 (online) [[slides]](https://hal.archives-ouvertes.fr/hal-03196283)
-- F. Bachoc, A. F. López-Lopera, and O. Roustant, Gaussian processes under inequality constraints: Sequential construction and dimension reduction, Workshop IMT (France) & University of Bern (Swiss), 2020 [[slides]](https://github.com/anfelopera/anfelopera.github.io/raw/master/publications/conferences/IMTBern2020slides.pdf)
-- A. F. López-Lopera, lineqGPR: An R package for Gaussian process regression modelling with linear inequality constraints, UseR! 2019, Toulouse, France [[poster]](https://github.com/anfelopera/anfelopera.github.io/raw/master/publications/conferences/UseR2019poster.pdf)
-- A. F. López-Lopera, F. Bachoc, N. Durrande and O. Roustant, Efficiently approximating Gaussian process emulators with inequality constraints using MC/MCMC, MCQMC 2018, Rennes, France [[slides]](https://github.com/anfelopera/anfelopera.github.io/raw/master/publications/conferences/MCQMC2018slides.pdf)
-- A. F. López-Lopera, F. Bachoc, N. Durrande and O. Roustant, Finite-dimensional Gaussian approximation with linear inequality constraints, SIAM-UQ 2018, Garden Grove, California, USA [[slides]](https://github.com/anfelopera/anfelopera.github.io/raw/master/publications/conferences/SIAMUQ2018slides.pdf)
-- A. F. López-Lopera, F. Bachoc, N. Durrande and O. Roustant, Gaussian process regression models under linear inequality conditions, Mascot-Num 2018, Nantes, France [[poster]](https://github.com/anfelopera/anfelopera.github.io/raw/master/publications/conferences/MascotNum2018poster.pdf)
+- F. Bachoc, A. F. López-Lopera, and O. Roustant, Gaussian processes under inequality constraints: Sequential construction and dimension reduction, Workshop IMT (France) & University of Bern (Swiss), 2020 [[slides]](https://github.com/anfelopera/anfelopera.github.io/raw/master/publications/conferences/2020_IMTBern_slides.pdf)
+- A. F. López-Lopera, lineqGPR: An R package for Gaussian process regression modelling with linear inequality constraints, UseR! 2019, Toulouse, France [[poster]](https://github.com/anfelopera/anfelopera.github.io/raw/master/publications/conferences/2019_UseR_poster.pdf)
+- A. F. López-Lopera, F. Bachoc, N. Durrande and O. Roustant, Efficiently approximating Gaussian process emulators with inequality constraints using MC/MCMC, MCQMC 2018, Rennes, France [[slides]](https://github.com/anfelopera/anfelopera.github.io/raw/master/publications/conferences/2018_MCQMC_slides.pdf)
+- A. F. López-Lopera, F. Bachoc, N. Durrande and O. Roustant, Finite-dimensional Gaussian approximation with linear inequality constraints, SIAM-UQ 2018, Garden Grove, California, USA [[slides]](https://github.com/anfelopera/anfelopera.github.io/raw/master/publications/conferences/2018_SIAMUQ_slides.pdf)
+- A. F. López-Lopera, F. Bachoc, N. Durrande and O. Roustant, Gaussian process regression models under linear inequality conditions, Mascot-Num 2018, Nantes, France [[poster]](https://github.com/anfelopera/anfelopera.github.io/raw/master/publications/conferences/2018_MascotNum_poster.pdf)
 
 ---
 
