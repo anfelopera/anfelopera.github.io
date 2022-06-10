@@ -7,7 +7,8 @@
 - My research interests include applied mathematics, machine learning and computer science topics. More precisely, Gaussian processes, kernel design and surrogate probabilistic models.
 
 ## News
-- The paper [*"Sequential construction and dimension reduction of Gaussian processes under inequality constraints"*](https://arxiv.org/abs/2009.04188), joint work with F. Bachoc and O. Roustant , has been accepted for publication in [SIMODS](https://www.siam.org/publications/journals/siam-journal-on-mathematics-of-data-science-simods)
+- New preprint: [*"High-dimensional additive Gaussian processes under monotonicity constraints"*](https://arxiv.org/abs/2205.08528), joint work with F. Bachoc and O. Roustant.
+- The paper [*"Sequential construction and dimension reduction of Gaussian processes under inequality constraints"*](https://arxiv.org/abs/2009.04188), joint work with F. Bachoc and O. Roustant, has been accepted for publication in [SIMODS](https://www.siam.org/publications/journals/siam-journal-on-mathematics-of-data-science-simods)
 - The paper [*"Multioutput Gaussian processes with functional data: A study on coastal flood hazard assessment"*](https://doi.org/10.1016/j.ress.2021.108139), joint work with D. Idier, J. Rohmer and F. Bachoc, is officially published in [JRESS](https://www.journals.elsevier.com/reliability-engineering-and-system-safety)
 - The paper [*"A user-oriented local coastal flooding early warning system using metamodeling techniques"*](https://doi.org/10.3390/jmse9111191), joint work with D. Idier, J. Rohmer and F. Bachoc et al., is officially published in [JMSE](https://www.mdpi.com/journal/jmse)
 - The paper [*"Physically-inspired Gaussian process models for post-transcriptional regulation in Drosophila"*](https://doi.org/10.1109/TCBB.2019.2918774), a joint work with N. Durrande and M. Alvarez, is officially published in [IEEE-TCBB](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8857)

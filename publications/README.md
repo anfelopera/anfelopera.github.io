@@ -1,11 +1,12 @@
 ## Working Papers
-- A. F. López-Lopera, F. Bachoc, and O. Roustant, Additive Gaussian Processes with Linear Inequality Constraints
-- E. A. Valencia, C. K. Valencia, A. F. López-Lopera, and M. A. Alvarez, Distance measures for hidden Markov models based on Hilbert space embeddings for time series classification
+- A. F. López-Lopera, F. Massa, I. Turpin, N. leconte, Modeling complex mechanical computer codes with functional input constitutive laws via Gaussian processes
+- A. F. López-Lopera, F. Bachoc and O. Roustant, High-dimensional additive Gaussian processes under monotonicity constraints [[preprint]](https://arxiv.org/abs/2205.08528)
+- E. A. Valencia, C. K. Valencia, A. F. López-Lopera and M. A. Alvarez, Distance measures for hidden Markov models based on Hilbert space embeddings for time series classification
 
 ---
 
 ## Publications in International Journals
-- F. Bachoc, A. F. López-Lopera and O. Roustant, Sequential construction and dimension reduction of Gaussian processes under inequality constraints, accepted for publication in SIAM Journal on Mathematics of Data Science [[preprint]](https://arxiv.org/abs/2009.04188) [[github]](https://github.com/anfelopera/lineqGPR)
+- F. Bachoc, A. F. López-Lopera and O. Roustant, Sequential construction and dimension reduction of Gaussian processes under inequality constraints, accepted for publication in SIAM Journal on Mathematics of Data Science [[preprint]](https://arxiv.org/abs/2009.04188) [[github]](https://github.com/anfelopera/lineqGPR) [[talk]](https://www.youtube.com/watch?v=SpGrecIO6o0)
 - A. F. López-Lopera, D. Idier, J. Rohmer and F. Bachoc, Multioutput Gaussian processes with functional data: A study on coastal flood hazard assessment, Reliability Engineering and System Safety 218: 108139, 2022 [[doi]](https://doi.org/10.1016/j.ress.2021.108139) [[preprint]](https://arxiv.org/abs/2007.14052) [[github]](https://github.com/anfelopera/spatfGPs)
 - D. Idier, A. F. López-Lopera et al., A user-oriented local coastal flooding forecast and early warning system using metamodeling techniques, Journal of Marine Science and Engineering 9(11): 1191, 2021 [[doi]](https://doi.org/10.3390/jmse9111191)
 - A. F. López-Lopera, N. Durrande and M. A. Alvarez, Physically-inspired Gaussian process models for post-transcriptional regulation in Drosophila, IEEE/ACM Transaction on Computational Biology and Bioinformatics, 18(2):656-666, 2021 [[doi]](https://doi.org/10.1109/TCBB.2019.2918774) [[preprint]](https://arxiv.org/abs/1808.10026) [[github]](https://github.com/anfelopera/PhysicallyGPDrosophila)
