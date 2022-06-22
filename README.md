@@ -7,7 +7,7 @@
 - My research interests include applied mathematics, machine learning and computer science topics. More precisely, Gaussian processes, kernel design and surrogate probabilistic models.
 
 ## News
-- PhD thesis offer: [*"Additive constrained Gaussian processes in high dimension"*](https://github.com/anfelopera/anfelopera.github.io/raw/master/docs/GAP_thesis_block_additive_GP.pdf), co-supervised by F. Bachoc (main supervisor) and O. Roustant.
+- PhD thesis offer in statistics: [**"Additive constrained Gaussian processes in high dimension"**](https://github.com/anfelopera/anfelopera.github.io/raw/master/docs/GAP_thesis_block_additive_GP.pdf), co-supervised by F. Bachoc (main supervisor) and O. Roustant. Applications are open since June 2022 for a starting date in Fall 2022 or as soon as possible afterward.
 - New preprint: [*"High-dimensional additive Gaussian processes under monotonicity constraints"*](https://arxiv.org/abs/2205.08528), joint work with F. Bachoc and O. Roustant.
 - The paper [*"Sequential construction and dimension reduction of Gaussian processes under inequality constraints"*](https://arxiv.org/abs/2009.04188), joint work with F. Bachoc and O. Roustant, has been accepted for publication in [SIMODS](https://www.siam.org/publications/journals/siam-journal-on-mathematics-of-data-science-simods)
 - The paper [*"Multioutput Gaussian processes with functional data: A study on coastal flood hazard assessment"*](https://doi.org/10.1016/j.ress.2021.108139), joint work with D. Idier, J. Rohmer and F. Bachoc, is officially published in [JRESS](https://www.journals.elsevier.com/reliability-engineering-and-system-safety)
