@@ -11,8 +11,8 @@
 <iframe
     src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://github.com/anfelopera/anfelopera.github.io/raw/master/docs/GAP_thesis_block_additive_GP.pdf#toolbar=0&scrollbar=0" frameBorder="0"
     scrolling="auto"
-    height="100%"
-    width="100%"
+    width="300"
+    height="200"
 ></iframe>
 
 - New preprint: [*"High-dimensional additive Gaussian processes under monotonicity constraints"*](https://arxiv.org/abs/2205.08528), joint work with F. Bachoc and O. Roustant.
