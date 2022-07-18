@@ -10,7 +10,7 @@
 - PhD thesis offer in statistics: [*"Additive constrained Gaussian processes in high dimension"*](https://github.com/anfelopera/anfelopera.github.io/raw/master/docs/GAP_thesis_block_additive_GP.pdf), co-supervised by F. Bachoc (main supervisor) and O. Roustant. Applications are open since June 2022 for a starting date in Fall 2022 or as soon as possible afterward.
 <center>
 <iframe
-    src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://github.com/anfelopera/anfelopera.github.io/raw/master/docs/GAP_thesis_block_additive_GP.pdf#toolbar=0&scrollbar=0" frameBorder="0"
+    src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://github.com/anfelopera/anfelopera.github.io/raw/master/docs/phd/GAP_thesis_block_additive_GP.pdf#toolbar=0&scrollbar=0" frameBorder="0"
     scrolling="auto"
     width="85%"
     height="500"
@@ -22,4 +22,6 @@
 - The paper [*"Multioutput Gaussian processes with functional data: A study on coastal flood hazard assessment"*](https://doi.org/10.1016/j.ress.2021.108139), joint work with D. Idier, J. Rohmer and F. Bachoc, is officially published in [JRESS](https://www.journals.elsevier.com/reliability-engineering-and-system-safety)
 - The paper [*"A user-oriented local coastal flooding early warning system using metamodeling techniques"*](https://doi.org/10.3390/jmse9111191), joint work with D. Idier, J. Rohmer and F. Bachoc et al., is officially published in [JMSE](https://www.mdpi.com/journal/jmse)
 - The paper [*"Physically-inspired Gaussian process models for post-transcriptional regulation in Drosophila"*](https://doi.org/10.1109/TCBB.2019.2918774), a joint work with N. Durrande and M. Alvarez, is officially published in [IEEE-TCBB](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8857)
+<br>
 
+[*Other publications*](https://anfelopera.github.io/publications/)
