@@ -9,4 +9,6 @@
 ></iframe>
 </center>
 
-- 
+## 2022
+- Master internship offer (project ARI:2021-2022, CERAMATHS) in cybernetics and applied mathematics: *"Adversarial training approaches using additive Gaussian noises"*, co-supervised with [Ihsen Alouani](https://sites.google.com/view/ihsen-alouani).
+    + Master student: [Ayoub Arous](https://tn.linkedin.com/in/ayoub-arous-29171a196)

@@ -24,4 +24,4 @@
 - The paper [*"Physically-inspired Gaussian process models for post-transcriptional regulation in Drosophila"*](https://doi.org/10.1109/TCBB.2019.2918774), a joint work with N. Durrande and M. Alvarez, is officially published in [IEEE-TCBB](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8857)
 <br>
 
-[*Other publications*](https://anfelopera.github.io/publications/)
+[**Other publications**](https://anfelopera.github.io/publications/)
