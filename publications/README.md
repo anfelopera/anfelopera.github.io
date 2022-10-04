@@ -28,6 +28,7 @@
 ---
 
 ## Other Conferences and Workshops
+- A. F. López-Lopera, F. Bachoc and O. Roustant, High-dimensional additive Gaussian processes under monotonicity constraints, Seminar - GAP project, Toulouse, France [[slides]](https://github.com/anfelopera/anfelopera.github.io/raw/master/publications/conferences/2022_GAP_slides.pdf)
 - A. F. López-Lopera, N. Durrande and M. A. Alvarez, Physically-inspired Gaussian processes: Application in biology, SIAM-UQ 2022, Atlanta, Georgia, USA [[slides]](https://github.com/anfelopera/anfelopera.github.io/raw/master/publications/conferences/2022_SIAMUQ_slides.pdf)
 - A. F. López-Lopera, D. Idier, J. Rohmer and F. Bachoc, Fast prediction of coastal flood hazard assessment: A multi-output Gaussian process metamodelling approach, RISCOPE ANR project: Final workshop 2022, Orléans, France [[slides]](https://github.com/anfelopera/anfelopera.github.io/raw/master/publications/conferences/2022_RISCOPE_slides.pdf)
 - A. F. López-Lopera, N. Bartoli, T. Lefebvre and S. Mouton, Data fusion with multifidelity Gaussian processes for aerodynamic experimental and numerical databases, SIAM-CSE 2021 (online) [[slides]](https://hal.archives-ouvertes.fr/hal-03196283)
