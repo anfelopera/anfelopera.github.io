@@ -16,7 +16,7 @@
 
 ## Proceedings in International Conferences
 - A. F. López-Lopera, F. Bachoc and O. Roustant, High-dimensional additive Gaussian processes under monotonicity constraints, to appear in NeurIPS 2022, New Orleans, USA [[preprint]](https://arxiv.org/abs/2205.08528)
-- A. F. López-Lopera, F. Massa, I. Turpin and N. leconte, Modeling complex mechanical computer codes with functional input via Gaussian processes, to appear in CILAMCE 2022, Foz do Iguaçu, Paraná, Brazil.
+- A. F. López-Lopera, F. Massa, I. Turpin and N. Leconte, Modeling complex mechanical computer codes with functional input via Gaussian processes, to appear in CILAMCE 2022, Foz do Iguaçu, Paraná, Brazil.
 - R. Conde-Arenzana, A. F. López-Lopera, S. Mouton, N. Bartoli and T. Lefebvre, Multi-fidelity Gaussian process model for CFD and wind tunnel data fusion, Aerobest 2021, Lisbon, Portugal (online) [[url]](https://aerobest2021.idmec.tecnico.ulisboa.pt/publications/#proceedings) [[preprint]](https://hal.archives-ouvertes.fr/hal-03346321/)
 - A. F. López-Lopera, F. Bachoc, N. Durrande, J. Rohmer, D. Idier and O. Roustant, Approximating Gaussian process emulators with linear inequality constraints and noisy observations via MC and MCMC, MCQMC 2019, Rennes, France [[doi]](https://doi.org/10.1007/978-3-030-43465-6_18) [[preprint]](https://arxiv.org/abs/1901.04827)
 - A. F. López-Lopera, S. John and N. Durrande, Gaussian process modulated Cox processes under linear inequality constraints, AISTATS 2019, Okinawa, Japan [[url]](http://proceedings.mlr.press/v89/lopez-lopera19a.html) [[preprint]](http://arxiv.org/abs/1902.10974)
