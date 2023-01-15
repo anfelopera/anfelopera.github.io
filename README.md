@@ -4,19 +4,9 @@
 - Postdoctoral researcher (2019-2020) at [IMT](https://www.math.univ-toulouse.fr/) and [BRGM](https://www.brgm.fr/fr), France. ANR Research project: *Risk-based system for coastal flooding early warning (RISCOPE)*.
 - Ph.D. in Applied Mathematics (2016-2019) at [Mines de Saint-Étienne](https://www.mines-stetienne.fr/), France. I worked under the supervision of [Prof. Olivier Roustant](https://olivier-roustant.fr/), [Ph.D. Nicolas Durrande](https://sites.google.com/site/nicolasdurrandehomepage/), and [Ph.D. François Bachoc](https://www.math.univ-toulouse.fr/~fbachoc/). The thesis was funded by the [**Chair in Applied Mathematics OQUAIDO**](https://oquaido.emse.fr/) [[activity report]](https://hal.archives-ouvertes.fr/hal-03217277)
 - M.Sc. in Electrical Engineering (2013-2015) at [Universidad Tecnólogica de Pereira](https://www.utp.edu.co/), Colombia. I worked under the supervision of [Ph.D. Mauricio Álvarez](https://www.sheffield.ac.uk/dcs/people/academic/mauricio-alvarez).
-- My research interests include applied mathematics, machine learning and computer science topics. More precisely, Gaussian processes, kernel design and surrogate probabilistic models.
+- My research interests include applied mathematics, machine learning and computer science topics. More precisely, Gaussian processes, kernel design and probabilistic surrogate models.
 
 ## News
-- PhD thesis offer in statistics: [*"Additive constrained Gaussian processes in high dimension"*](https://github.com/anfelopera/anfelopera.github.io/raw/master/funding/phd/GAP_thesis_block_additive_GP.pdf), co-supervised by [François Bachoc](https://www.math.univ-toulouse.fr/~fbachoc/) (main supervisor) and [Olivier Roustant](https://olivier-roustant.fr/). Applications are open since September 2022 for a starting date in Fall 2023 or as soon as possible afterward.
-<center>
-<iframe
-    src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://github.com/anfelopera/anfelopera.github.io/raw/master/funding/phd/GAP_thesis_block_additive_GP.pdf#toolbar=0&scrollbar=0" frameBorder="0"
-    scrolling="auto"
-    width="85%"
-    height="500"
-></iframe>
-</center>
-
 - The paper [*"High-dimensional additive Gaussian processes under monotonicity constraints"*](https://openreview.net/forum?id=YCPmfirAcc), a joint work with F. Bachoc and O. Roustant, has been accepted for publication in the international conference [NeurIPS 2022](https://neurips.cc/Conferences/2022)
 - The paper [*"Modeling complex mechanical computer codes with functional input via Gaussian processes"*](https://hal.archives-ouvertes.fr/hal-03882473/), a joint work with F. Massa, I. Turpin and N. Leconte, is officially published in the international conference [CILAMCE 2022](https://www.cilamce.com.br/)
 - The paper [*"Sequential construction and dimension reduction of Gaussian processes under inequality constraints"*](https://doi.org/10.1137/21M1407513), a joint work with F. Bachoc and O. Roustant, is officially published in [SIMODS](https://www.siam.org/publications/journals/siam-journal-on-mathematics-of-data-science-simods)
