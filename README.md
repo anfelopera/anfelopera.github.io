@@ -17,11 +17,9 @@
 ></iframe>
 </center>
 
-- The paper *"High-dimensional additive Gaussian processes under monotonicity constraints"*, a joint work with F. Bachoc and O. Roustant, has been accepted for publication in the international conference [NeurIPS 2022](https://neurips.cc/Conferences/2022) [[preprint]](https://arxiv.org/abs/2205.08528)
-- The paper *"Modeling complex mechanical computer codes with functional input via Gaussian processes"*, a joint work with F. Massa, I. Turpin and N. Leconte, has been accepted for publication in the international conference [CILAMCE 2022](https://www.cilamce.com.br/)
-- New preprint: [*"High-dimensional additive Gaussian processes under monotonicity constraints"*](https://arxiv.org/abs/2205.08528), a joint work with F. Bachoc and O. Roustant.
+- The paper [*"High-dimensional additive Gaussian processes under monotonicity constraints"*](https://openreview.net/forum?id=YCPmfirAcc), a joint work with F. Bachoc and O. Roustant, has been accepted for publication in the international conference [NeurIPS 2022](https://neurips.cc/Conferences/2022)
+- The paper [*"Modeling complex mechanical computer codes with functional input via Gaussian processes"*](https://hal.archives-ouvertes.fr/hal-03882473/), a joint work with F. Massa, I. Turpin and N. Leconte, is officially published in the international conference [CILAMCE 2022](https://www.cilamce.com.br/)
 - The paper [*"Sequential construction and dimension reduction of Gaussian processes under inequality constraints"*](https://doi.org/10.1137/21M1407513), a joint work with F. Bachoc and O. Roustant, is officially published in [SIMODS](https://www.siam.org/publications/journals/siam-journal-on-mathematics-of-data-science-simods)
-- The paper [*"Multioutput Gaussian processes with functional data: A study on coastal flood hazard assessment"*](https://doi.org/10.1016/j.ress.2021.108139), a joint work with D. Idier, J. Rohmer and F. Bachoc, is officially published in [JRESS](https://www.journals.elsevier.com/reliability-engineering-and-system-safety)
 <br>
 
 [Other publications...](https://anfelopera.github.io/publications/)
