@@ -4,7 +4,7 @@
     + PhD thesis funded by the [ANR JCJC GAP](https://www.math.univ-toulouse.fr/~fbachoc/ANR_GAP.html)
 
 ## Current master and engineering students
-- Hugo Valayer, INSA Toulouse (co-supervised by [Nathalie Bartoli](https://www.onera.fr/en/staff/nathalie-bartoli) and [Thierry Lefebvre](https://fr.linkedin.com/in/thierry-lefebvre-3626a189), Eng. internship starting in February 2023)
+- [Hugo Valayer](https://fr.linkedin.com/in/hugo-valayer), INSA Toulouse (co-supervised by [Nathalie Bartoli](https://www.onera.fr/en/staff/nathalie-bartoli) and [Thierry Lefebvre](https://fr.linkedin.com/in/thierry-lefebvre-3626a189), Eng. internship starting in February 2023)
     + Topic: Data fusion and multifidelity design of experiments for aerodynamics
     + Eng. internship funded by [ONERA](https://www.onera.fr/fr)
 
