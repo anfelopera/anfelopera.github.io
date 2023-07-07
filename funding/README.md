@@ -2,8 +2,8 @@
 - 4-years ANR JCJC project.
     + Title: GAME -- *GAussian process modeling of transient MEchanical random fields: a complete study from simulation to identification*
     + Scientific consortium:
-	+ UPHF: A. F. López-Lopera (PI), [F. Massa](https://www.uphf.fr/lamih/en/membres/massa_franck), [L. Reding](https://www.uphf.fr/ceramaths/membres/reding_lucas) and [I. Turpin](https://www.uphf.fr/ceramaths/en/membres/massa_turpin_isabelle)
-	+ EMSE: [J. Bruchon](https://www.emse.fr/~bruchon/index_english.html) and [R. Le Riche](https://www.emse.fr/~leriche/)
+	* UPHF: A. F. López-Lopera (PI), [F. Massa](https://www.uphf.fr/lamih/en/membres/massa_franck), [L. Reding](https://www.uphf.fr/ceramaths/membres/reding_lucas) and [I. Turpin](https://www.uphf.fr/ceramaths/en/membres/massa_turpin_isabelle)
+	* EMSE: [J. Bruchon](https://www.emse.fr/~bruchon/index_english.html) and [R. Le Riche](https://www.emse.fr/~leriche/)
     + Master student: to be hired (the Master's internship offer will soon be available).
     + PhD student: to be hired (the PhD offer will soon be available).
 - 1-year PEPS JCJC project funded by the French National Centre for Scientific Research (CNRS), to work on "Theoretical guarantees of Gaussian processes with functional inputs", and on "Additive constrained Gaussian processes in high dimension".
