@@ -1,5 +1,6 @@
 ## Working Papers
-- E. A. Valencia, C. K. Valencia, A. F. López-Lopera and M. A. Alvarez, Distance measures for hidden Markov models based on Hilbert space embeddings for time series classification
+- E. A. Valencia, C. K. Valencia, A. F. López-Lopera and M. A. Alvarez, Distance measures for hidden Markov models based on Hilbert space embeddings for time series classification.
+- A. F. López-Lopera, L. Reding and F. Bachoc, Asymptotic analysis for covariance parameter estimation of Gaussian processes with functional inputs.
 
 ---
 
@@ -15,7 +16,7 @@
 ---
 
 ## Proceedings in International Conferences
-- A. F. López-Lopera, F. Bachoc and O. Roustant, High-dimensional additive Gaussian processes under monotonicity constraints, to appear in NeurIPS 2022, New Orleans, USA [[OpenReview]](https://openreview.net/forum?id=YCPmfirAcc) [[arXiv]](https://arxiv.org/abs/2205.08528)
+- A. F. López-Lopera, F. Bachoc and O. Roustant, High-dimensional additive Gaussian processes under monotonicity constraints, NeurIPS 2022, New Orleans, USA [[url]](https://proceedings.neurips.cc/paper_files/paper/2022/hash/34b70ece5f8d273fd670a17e2248d034-Abstract-Conference.html) [[url]](https://proceedings.neurips.cc/paper_files/paper/2022/hash/34b70ece5f8d273fd670a17e2248d034-Abstract-Conference.html) [[arXiv]](https://arxiv.org/abs/2205.08528)
 - A. F. López-Lopera, F. Massa, I. Turpin and N. Leconte, Modeling complex mechanical computer codes with functional input via Gaussian processes, in CILAMCE 2022, Foz do Iguaçu, Paraná, Brazil. [[url]](https://www.cilamce.com.br/anais/index.php?ano=2022) [[HAL]](https://hal.archives-ouvertes.fr/hal-03882473/)
 - R. Conde-Arenzana, A. F. López-Lopera, S. Mouton, N. Bartoli and T. Lefebvre, Multi-fidelity Gaussian process model for CFD and wind tunnel data fusion, Aerobest 2021, Lisbon, Portugal (online) [[url]](https://aerobest2021.idmec.tecnico.ulisboa.pt/publications/#proceedings) [[HAL]](https://hal.archives-ouvertes.fr/hal-03346321/)
 - A. F. López-Lopera, F. Bachoc, N. Durrande, J. Rohmer, D. Idier and O. Roustant, Approximating Gaussian process emulators with linear inequality constraints and noisy observations via MC and MCMC, MCQMC 2019, Rennes, France [[doi]](https://doi.org/10.1007/978-3-030-43465-6_18) [[arXiv]](https://arxiv.org/abs/1901.04827)
@@ -27,7 +28,13 @@
 
 ---
 
+## Proceedings in French Conferences
+- D. Idier, A. Aurouet, F. Bachoc, A. Baills, J. Betancourt, F. Gamboa, T. Klein, S. Le Roy, A. F. López-Lopera, J. Louisor, R. Pedreros, J. Rohmer, and A. Thibault,  *Un système local de prévision et alerte des submersions côtières centré sur les besoins des utilisateurs et utilisant des techniques de métamodélisation*, Journées Nationales Génie Côtier - Génie Civil, France. [[doi]](http://dx.doi.org/10.5150/jngcgc.2022.088) [[HAL]](https://hal.archives-ouvertes.fr/hal-03780209/)
+
+---
+
 ## Other Conferences and Workshops
+- A. F. López-Lopera, F. Bachoc and O. Roustant, High-dimensional additive Gaussian processes under monotonicity constraints, Seminar - Journées Scientifiques CIROQUO, Saclay, France [[slides]](https://github.com/anfelopera/anfelopera.github.io/raw/master/publications/conferences/2023_CIROQUO_slides.pdf)
 - A. F. López-Lopera, F. Bachoc and O. Roustant, High-dimensional additive Gaussian processes under monotonicity constraints, Seminar - GAP project, Toulouse, France [[slides]](https://github.com/anfelopera/anfelopera.github.io/raw/master/publications/conferences/2022_GAP_slides.pdf)
 - A. F. López-Lopera, N. Durrande and M. A. Alvarez, Physically-inspired Gaussian processes: Application in biology, SIAM-UQ 2022, Atlanta, Georgia, USA [[slides]](https://github.com/anfelopera/anfelopera.github.io/raw/master/publications/conferences/2022_SIAMUQ_slides.pdf)
 - A. F. López-Lopera, D. Idier, J. Rohmer and F. Bachoc, Fast prediction of coastal flood hazard assessment: A multi-output Gaussian process metamodelling approach, RISCOPE ANR project: Final workshop 2022, Orléans, France [[slides]](https://github.com/anfelopera/anfelopera.github.io/raw/master/publications/conferences/2022_RISCOPE_slides.pdf)
