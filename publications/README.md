@@ -1,6 +1,7 @@
 ## Working Papers
 - E. A. Valencia, C. K. Valencia, A. F. López-Lopera and M. A. Alvarez, Distance measures for hidden Markov models based on Hilbert space embeddings for time series classification.
 - L. Reding, A. F. López-Lopera and F. Bachoc, Asymptotic analysis for covariance parameter estimation of Gaussian processes with functional inputs.
+- M. Deronzier, F. Bachoc, A. F. López-Lopera and O. Roustant, Block additive Gaussian processes under monotonicity constraints: Covariance structure and model Selection.
 
 ---
 
