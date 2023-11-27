@@ -21,10 +21,10 @@ The ANR JCJC GAME project focuses on simulation and identification problems in m
 
 The project proposes both innovative theoretical and numerical contributions that are of interest in research fields such as applied mathematics, machine learning and mechanics (but not limited to them). Our theoretical contributions are based on Gaussian process models with (multivariate or distribution) functional inputs and functional outputs. Since they may be independent of the mechanical applications, the resulting models can then be used in other research fields.
 		
-**Keywords.** Mechanical codes, stochastic modeling and simulation, uncertainty quantification, functional data, kernel design, machine learning, reverse-engineering
+**Keywords.** Mechanical codes, stochastic modeling and simulation, uncertainty quantification, functional data, kernel design, machine learning, reverse-engineering.
 
 ### Funding opportunities
-- Master student: to be hired (the Master's internship offer will soon be available).
+- Master student: to be hired (the Master internship offer will soon be available).
 - PhD student: to be hired (the PhD offer will soon be available).
 
-**To acknowledge this project:** "This work was supported by the Project GAP (ANR-21-CE40-0007) of the French National Research Agency (ANR)."
+**To acknowledge this project:** "This work was supported by the project GAME (ANR-23-CE46-0007) of the French National Research Agency (ANR)."
