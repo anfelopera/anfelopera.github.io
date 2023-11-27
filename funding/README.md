@@ -13,9 +13,9 @@
 
 ### Current offers
 
-- 3-years PhD funding on *"Gaussian process modeling of mechanical random fields: a complete study from simulation to identification"*. This offer is funded by the 4-years ANR JCJC [GAME](https://anfelopera.github.io/funding/GAME) project.
+- 3-years PhD funding on *"Gaussian process modeling of mechanical random fields: a complete study from simulation to identification"*. This offer is funded by the ANR JCJC [GAME](https://anfelopera.github.io/funding/GAME) project.
 
-- Master internship offer (6 months) on *"Kernel design for simulating wear topographies in brake systems via Gaussian processes"*. This offer is funded by the 4-years ANR JCJC [GAME](https://anfelopera.github.io/funding/GAME) project.
+- Master internship offer (6 months) on *"Kernel design for simulating wear topographies in brake systems via Gaussian processes"*. This offer is funded by the ANR JCJC [GAME](https://anfelopera.github.io/funding/GAME) project.
 
 Feel free to contact me for more details.
 

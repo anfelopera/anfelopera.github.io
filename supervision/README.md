@@ -7,6 +7,8 @@
     + Topic: Additive constrained Gaussian processes in high dimension
     + PhD thesis funded by the [ANR JCJC GAP](https://www.math.univ-toulouse.fr/~fbachoc/ANR_GAP.html)
 
+I will post new offers [here](https://anfelopera.github.io/funding/).
+
 ## Current master and engineering students
 
 ## Former PhD students and research assistants
