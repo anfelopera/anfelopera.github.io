@@ -1,6 +1,6 @@
 ## Current PhD students
 - Mauricio Castaño, *Université Polytechnique Hauts-de-France* and *ONERA* (co-supervised by [Nathalie Bartoli](https://www.math.univ-toulouse.fr/~fbachoc/) and [F. Massa](https://www.uphf.fr/lamih/en/membres/massa_franck)). PhD thesis starting in December 2023.
-    + Topic: [Multi-fidelity adaptive design of experiments and surrogate models for data fusion in aerodynamics](https://github.com/anfelopera/anfelopera.github.io/raw/master/funding/phd/thesis_proposal_ONERA_WTdata.pdf)
+    + Topic: Multi-fidelity adaptive design of experiments and surrogate models for data fusion in aerodynamics
 
 - [Mathis Deronzier](https://fr.linkedin.com/in/mathis-deronzier-305a29182), *Institut de Mathématiques de Toulouse* (co-supervised by [François Bachoc](https://www.math.univ-toulouse.fr/~fbachoc/) and [Olivier Roustant](https://olivier-roustant.fr/)). PhD thesis starting in April 2023.
     + Topic: Additive constrained Gaussian processes in high dimension

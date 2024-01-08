@@ -10,13 +10,12 @@
 ## Internships and PhD offers
 
 ### Current offers
-- 3-years PhD funding on *"Gaussian process modeling of mechanical random fields: a complete study from simulation to identification"*. This offer is funded by the ANR JCJC [GAME](https://anfelopera.github.io/funding/GAME) project.
-- Master internship offer (6 months) on *"Kernel design for simulating wear topographies in brake systems via Gaussian processes"*. This offer is funded by the ANR JCJC [GAME](https://anfelopera.github.io/funding/GAME) project.
+- Master internship (6 months) and PhD (3 years) funding on *"Gaussian process modeling of mechanical random fields: a complete study from simulation to identification"*. This offer is funded by the ANR JCJC [GAME](https://anfelopera.github.io/funding/GAME) project. The subjects of both offers can be found [[here]](C:\Users\allopera\Documents\personnel\github\anfelopera.github.io\funding\phd\GAME_Joint_Offers_KernelDesign_GP_Mechanics.pdf)
 
 Feel free to contact me for more details.
 
 ### 2023
-- 3-years PhD funding on [*"Multi-fidelity adaptive design of experiments and surrogate models for data fusion in aerodynamics"*](https://github.com/anfelopera/anfelopera.github.io/raw/master/funding/phd/thesis_proposal_ONERA_WTdata.pdf), cofunded by the ONERA and UPHF.
+- 3-years PhD funding on *"Multi-fidelity adaptive design of experiments and surrogate models for data fusion in aerodynamics"*, cofunded by the ONERA and UPHF.
 
 ### 2022
 - Master internship offer (project ARI:2021-2022, [CERAMATHS](https://www.uphf.fr/ceramaths)) in cybersecurity and applied mathematics: *"Adversarial training approaches using additive Gaussian noises"*, co-supervised by [I. Alouani](https://sites.google.com/view/ihsen-alouani).
