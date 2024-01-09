@@ -24,7 +24,9 @@ The project proposes both innovative theoretical and numerical contributions tha
 **Keywords.** Mechanical codes, stochastic modeling and simulation, uncertainty quantification, functional data, kernel design, machine learning, reverse-engineering.
 
 ### Funding opportunities
-- Master student: to be hired (the Master internship offer will soon be available).
-- PhD student: to be hired (the PhD offer will soon be available).
+- 1 Master internship (6 months, starting in Spring 2024)
+- 1 PhD thesis (3 years, starting in Fall 2024 or as soon as possible)
+
+Both offers can be found [[here]](C:\Users\allopera\Documents\personnel\github\anfelopera.github.io\funding\phd\GAME_Joint_Offers_KernelDesign_GP_Mechanics.pdf)
 
 **To acknowledge this project:** "This work was supported by the project GAME (ANR-23-CE46-0007) of the French National Research Agency (ANR)."
