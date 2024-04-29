@@ -1,12 +1,13 @@
 ## Working Papers
 - E. A. Valencia, C. K. Valencia, A. F. López-Lopera and M. A. Alvarez, Distance measures for hidden Markov models based on Hilbert space embeddings for time series classification.
-- L. Reding, A. F. López-Lopera and F. Bachoc, Asymptotic analysis for covariance parameter estimation of Gaussian processes with functional inputs.
+- L. Reding, A. F. López-Lopera and F. Bachoc, Asymptotic analysis for covariance parameter estimation of Gaussian processes with functional inputs [[arXiv]](https://arxiv.org/abs/2404.17222) [[github]](https://github.com/anfelopera/fGPs).
 - M. Deronzier, F. Bachoc, A. F. López-Lopera and O. Roustant, Block additive Gaussian processes under monotonicity constraints: Covariance structure and model Selection.
 
 ---
 
 ## Publications in International Journals
-- F. Bachoc, A. F. López-Lopera and O. Roustant, Sequential construction and dimension reduction of Gaussian processes under inequality constraints, SIAM Journal on Mathematics of Data Science [[doi]](https://doi.org/10.1137/21M1407513) [[arXiv]](https://arxiv.org/abs/2009.04188) [[github]](https://github.com/anfelopera/lineqGPR) [[talk]](https://www.youtube.com/watch?v=SpGrecIO6o0)
+- H. Valayer, N. Bartoli, M. Castaño-Aguirre, R. Lafage, T. Lefebvre, A. F. López-Lopera, and S. Mouton, A Python toolbox for data-driven aerodynamic modeling using sparse Gaussian processes, Aerospace 11(4): 260, 2024 [[doi]](https://doi.org/10.3390/aerospace11040260) [[github]](https://github.com/SMTorg/smt-sgp-paper)
+- F. Bachoc, A. F. López-Lopera and O. Roustant, Sequential construction and dimension reduction of Gaussian processes under inequality constraints, SIAM Journal on Mathematics of Data Science 4(2):772-800, 2022 [[doi]](https://doi.org/10.1137/21M1407513) [[arXiv]](https://arxiv.org/abs/2009.04188) [[github]](https://github.com/anfelopera/lineqGPR) [[talk]](https://www.youtube.com/watch?v=SpGrecIO6o0)
 - A. F. López-Lopera, D. Idier, J. Rohmer and F. Bachoc, Multioutput Gaussian processes with functional data: A study on coastal flood hazard assessment, Reliability Engineering and System Safety 218: 108139, 2022 [[doi]](https://doi.org/10.1016/j.ress.2021.108139) [[arXiv]](https://arxiv.org/abs/2007.14052) [[github]](https://github.com/anfelopera/spatfGPs)
 - D. Idier, A. F. López-Lopera et al., A user-oriented local coastal flooding forecast and early warning system using metamodeling techniques, Journal of Marine Science and Engineering 9(11): 1191, 2021 [[doi]](https://doi.org/10.3390/jmse9111191)
 - A. F. López-Lopera, N. Durrande and M. A. Alvarez, Physically-inspired Gaussian process models for post-transcriptional regulation in Drosophila, IEEE/ACM Transaction on Computational Biology and Bioinformatics, 18(2):656-666, 2021 [[doi]](https://doi.org/10.1109/TCBB.2019.2918774) [[arXiv]](https://arxiv.org/abs/1808.10026) [[github]](https://github.com/anfelopera/PhysicallyGPDrosophila)
@@ -35,6 +36,7 @@
 ---
 
 ## Other Conferences and Workshops
+- A. F. López-Lopera, Gaussian processes with applications in statistical learning and machine learning, Seminar - Machine Learning in Montpellier, Theory & Practice (ML-MTP), Univ. Montpellier, France [[slides]](https://github.com/anfelopera/anfelopera.github.io/raw/master/publications/conferences/2024_IMAG_slides.pdf)
 - A. F. López-Lopera, F. Bachoc and O. Roustant, High-dimensional additive Gaussian processes under monotonicity constraints, Seminar - Journées Scientifiques CIROQUO, Saclay, France [[slides]](https://github.com/anfelopera/anfelopera.github.io/raw/master/publications/conferences/2023_CIROQUO_slides.pdf)
 - A. F. López-Lopera, F. Bachoc and O. Roustant, High-dimensional additive Gaussian processes under monotonicity constraints, Seminar - GAP project, Toulouse, France [[slides]](https://github.com/anfelopera/anfelopera.github.io/raw/master/publications/conferences/2022_GAP_slides.pdf)
 - A. F. López-Lopera, N. Durrande and M. A. Alvarez, Physically-inspired Gaussian processes: Application in biology, SIAM-UQ 2022, Atlanta, Georgia, USA [[slides]](https://github.com/anfelopera/anfelopera.github.io/raw/master/publications/conferences/2022_SIAMUQ_slides.pdf)

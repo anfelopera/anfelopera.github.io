@@ -7,6 +7,8 @@
 - My research interests include applied mathematics, machine learning and computer science topics. More precisely, Gaussian processes, kernel design and probabilistic surrogate models.
 
 ## News
+- New paper: [*"Asymptotic analysis for covariance parameter estimation of Gaussian processes with functional inputs"*](https://arxiv.org/abs/2404.17222), a joint work with L. Reding and F. Bachoc.
+- New paper: [*"A Python toolbox for data-driven aerodynamic modeling using sparse Gaussian processes"*](https://doi.org/10.3390/aerospace11040260), a joint work with H. Valayer, N. Bartoli, M. Castaño-Aguirre, R. Lafage, T. Lefebvre and S. Mouton, is officially published in Aerospace 11(4): 260.
 - I'm thrilled to announce that the 4-year ANR JCJC [GAME (*GAussian process modeling of transient MEchanical random fields: a complete study from simulation to identification*)](https://anfelopera.github.io/funding/GAME) project, in which I'm the PI, has been successfully chosen for funding. This is a joint work with F. Massa, L. Reding, I. Turpin (UPHF), J. Bruchon and R. Le Riche (EMSE)!
 - The paper [*"High-dimensional additive Gaussian processes under monotonicity constraints"*](https://proceedings.neurips.cc/paper_files/paper/2022/hash/34b70ece5f8d273fd670a17e2248d034-Abstract-Conference.html), a joint work with F. Bachoc and O. Roustant, has been officially published at [NeurIPS 2022](https://neurips.cc/Conferences/2022)
 - The paper [*"Modeling complex mechanical computer codes with functional input via Gaussian processes"*](https://hal.archives-ouvertes.fr/hal-03882473/), a joint work with F. Massa, I. Turpin and N. Leconte, is officially published in the international conference [CILAMCE 2022](https://www.cilamce.com.br/)
