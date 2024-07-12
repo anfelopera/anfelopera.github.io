@@ -1,5 +1,6 @@
 ## Working Papers
 - E. A. Valencia, C. K. Valencia, A. F. López-Lopera and M. A. Alvarez, Distance measures for hidden Markov models based on Hilbert space embeddings for time series classification.
+- L. Grammont, F. Bachoc, and A. F. López-Lopera, Error bounds for a kernel-based constrained optimal smoothing approximation [[HAL]](https://hal.science/hal-04645086)
 - L. Reding, A. F. López-Lopera and F. Bachoc, Asymptotic analysis for covariance parameter estimation of Gaussian processes with functional inputs [[arXiv]](https://arxiv.org/abs/2404.17222) [[github]](https://github.com/anfelopera/fGPs).
 - M. Deronzier, F. Bachoc, A. F. López-Lopera and O. Roustant, Block additive Gaussian processes under monotonicity constraints: Covariance structure and model Selection.
 
@@ -36,7 +37,6 @@
 ---
 
 ## Other Conferences and Workshops
-- A. F. López-Lopera, Gaussian processes with applications in statistical learning and machine learning, Seminar - Machine Learning in Montpellier, Theory & Practice (ML-MTP), Univ. Montpellier, France [[slides]](https://github.com/anfelopera/anfelopera.github.io/raw/master/publications/conferences/2024_IMAG_slides.pdf)
 - A. F. López-Lopera, F. Bachoc and O. Roustant, High-dimensional additive Gaussian processes under monotonicity constraints, Seminar - Journées Scientifiques CIROQUO, Saclay, France [[slides]](https://github.com/anfelopera/anfelopera.github.io/raw/master/publications/conferences/2023_CIROQUO_slides.pdf)
 - A. F. López-Lopera, F. Bachoc and O. Roustant, High-dimensional additive Gaussian processes under monotonicity constraints, Seminar - GAP project, Toulouse, France [[slides]](https://github.com/anfelopera/anfelopera.github.io/raw/master/publications/conferences/2022_GAP_slides.pdf)
 - A. F. López-Lopera, N. Durrande and M. A. Alvarez, Physically-inspired Gaussian processes: Application in biology, SIAM-UQ 2022, Atlanta, Georgia, USA [[slides]](https://github.com/anfelopera/anfelopera.github.io/raw/master/publications/conferences/2022_SIAMUQ_slides.pdf)
