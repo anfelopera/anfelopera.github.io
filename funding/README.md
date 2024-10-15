@@ -9,10 +9,12 @@
 
 ## Internships and PhD offers
 
-### Current offers
-- Master internship (6 months) and PhD (3 years) funding on *"Gaussian process modeling of mechanical random fields: a complete study from simulation to identification"*. Both offers are funded by the ANR JCJC [GAME](https://anfelopera.github.io/funding/GAME) project. The subjects can be found [[here]](https://github.com/anfelopera/anfelopera.github.io/raw/master/funding/phd/GAME_Joint_Offers_KernelDesign_GP_Mechanics.pdf)
+I will be posting new offers here.
 
-Feel free to contact me for more details.
+### Current offers
+
+### 2024
+- Master internship (6 months) and PhD (3 years) funding on *"Gaussian process modeling of mechanical random fields: a complete study from simulation to identification"*, both offers funded by the [ANR JCJC GAME](https://anfelopera.github.io/funding/GAME).
 
 ### 2023
 - 3-years PhD funding on *"Multi-fidelity adaptive design of experiments and surrogate models for data fusion in aerodynamics"*, cofunded by the ONERA and UPHF.
