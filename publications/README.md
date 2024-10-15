@@ -2,10 +2,11 @@
 - E. A. Valencia, C. K. Valencia, A. F. López-Lopera and M. A. Alvarez, Distance measures for hidden Markov models based on Hilbert space embeddings for time series classification.
 - L. Grammont, F. Bachoc, and A. F. López-Lopera, Error bounds for a kernel-based constrained optimal smoothing approximation [[HAL]](https://hal.science/hal-04645086)
 - M. Deronzier, F. Bachoc, A. F. López-Lopera and O. Roustant, Block-additive Gaussian processes under monotonicity constraints [[arXiv]](https://arxiv.org/abs/2407.13402)
+
 ---
 
 ## Publications in International Journals
-- L. Reding, A. F. López-Lopera and F. Bachoc, Asymptotic analysis for covariance parameter estimation of Gaussian processes with functional inputs, to appear in Journal of Multivariate Analysis [[arXiv]](https://arxiv.org/abs/2404.17222) [[github]](https://github.com/anfelopera/fGPs).
+- L. Reding, A. F. López-Lopera and F. Bachoc, Asymptotic analysis for covariance parameter estimation of Gaussian processes with functional inputs, to appear in Journal of Multivariate Analysis [[arXiv]](https://arxiv.org/abs/2404.17222) [[github]](https://github.com/anfelopera/fGPs)
 - H. Valayer, N. Bartoli, M. Castaño-Aguirre, R. Lafage, T. Lefebvre, A. F. López-Lopera, and S. Mouton, A Python toolbox for data-driven aerodynamic modeling using sparse Gaussian processes, Aerospace 11(4): 260, 2024 [[doi]](https://doi.org/10.3390/aerospace11040260) [[github]](https://github.com/SMTorg/smt-sgp-paper)
 - F. Bachoc, A. F. López-Lopera and O. Roustant, Sequential construction and dimension reduction of Gaussian processes under inequality constraints, SIAM Journal on Mathematics of Data Science 4(2):772-800, 2022 [[doi]](https://doi.org/10.1137/21M1407513) [[arXiv]](https://arxiv.org/abs/2009.04188) [[github]](https://github.com/anfelopera/lineqGPR) [[talk]](https://www.youtube.com/watch?v=SpGrecIO6o0)
 - A. F. López-Lopera, D. Idier, J. Rohmer and F. Bachoc, Multioutput Gaussian processes with functional data: A study on coastal flood hazard assessment, Reliability Engineering and System Safety 218: 108139, 2022 [[doi]](https://doi.org/10.1016/j.ress.2021.108139) [[arXiv]](https://arxiv.org/abs/2007.14052) [[github]](https://github.com/anfelopera/spatfGPs)
