@@ -25,7 +25,9 @@ The project proposes both innovative theoretical and numerical contributions tha
 
 ### Funding opportunities
 - 1 Master internship (6 months, starting in Spring 2024)
+     + Status: already allocated
 - 1 PhD thesis (3 years, starting in Fall 2024 or as soon as possible)
+     + Status: already allocated
 
 Both offers can be found [[here]](https://github.com/anfelopera/anfelopera.github.io/raw/master/funding/phd/GAME_Joint_Offers_KernelDesign_GP_Mechanics.pdf)
 
