@@ -10,7 +10,7 @@ They are based on Gaussian processes and related topics. More precisely,
 The Jupyter Notebooks for the practical sessions can be download here:
 [[link]](https://github.com/anfelopera/anfelopera.github.io/raw/master/teaching/INSA_GPs/labs)
 
-## UPHF, Valenciennes, France (2021 - today)
+## UPHF, France (2021 - today)
 
 The lectures make part of a complete course on mathematics for the IUT-GEII at the [Univ. Polytechnique Hauts-de-France (UPHF)](https://www.uphf.fr/en).
 The courses are taught in French.
@@ -23,7 +23,7 @@ The courses are taught in French.
 | **S4** | - Numerical series <br/> - Introduction to power series <br/> - Matrices |
 | **S5** | - ODE: advance topics <br/> - Introduction to Statistics |
 
-## INSA Hauts-de-France, Valenciennes, France (2025)
+## INSA Hauts-de-France, France (2025)
 
 The lectures make part of the module *Machine Learning I* of the Master program [CaSSAD](https://formations.uphf.fr/fr/formations/master-master/master-mathematiques-et-applications-L07UV26X/calcul-scientifique-statistique-analyse-des-donnees-cassad-LNKF6L2K.html), INSA Hauts-de-France.
 - Introduction to machine Learning

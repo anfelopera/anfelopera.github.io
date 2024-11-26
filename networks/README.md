@@ -1,0 +1,7 @@
+## Research networks
+
+- ANR JCJC [GAP](https://www.math.univ-toulouse.fr/~fbachoc/ANR_GAP.html) (project member, 2022 - 2025) 
+- Research & industry consortium [CIROQUO](https://ciroquo.ec-lyon.fr/) (external participant, 2023 - today)
+- [RT-UQ](https://uq.math.cnrs.fr/) (external participant, 2022 - today)
+- Research chair in applied mathematics [OQUAIDO](https://hal.science/hal-03217277v2) (PhD student, 2016 - 2019)
+
