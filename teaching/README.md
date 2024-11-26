@@ -1,4 +1,4 @@
-## INSA -- 2021 (Toulouse, France)
+## INSA Toulouse, France (2021)
 
 These lectures make part of a complete course on stochastic processes lead by the French National Institute of Applied Science (INSA, acronym in French).
 They are based on Gaussian processes and related topics. More precisely,
@@ -10,7 +10,7 @@ They are based on Gaussian processes and related topics. More precisely,
 The Jupyter Notebooks for the practical sessions can be download here:
 [[link]](https://github.com/anfelopera/anfelopera.github.io/raw/master/teaching/INSA_GPs/labs)
 
-## UPHF -- 2021/today (Valenciennes, France)
+## UPHF, Valenciennes, France (2021 - today)
 
 The lectures make part of a complete course on mathematics for the IUT-GEII at the [Univ. Polytechnique Hauts-de-France (UPHF)](https://www.uphf.fr/en).
 The courses are taught in French.
@@ -21,17 +21,19 @@ The courses are taught in French.
 | **S2** | - Rational fractions <br/> - Integrals <br/> - ODE 2 <br/> - Laplace transform |
 | **S3** | - Fourier series <br/> - Fourier transform <br/> - Numerical sequences <br/> - Z transform |
 | **S4** | - Numerical series <br/> - Introduction to power series <br/> - Matrices |
-| **S5** | - Advance topics on ODE1&2 <br/> Introduction to statistics|
+| **S5** | - ODE: advance topics <br/> - Introduction to Statistics |
 
-## INSA Hauts-de-France -- 2025 (Valenciennes, France)
+## INSA Hauts-de-France, Valenciennes, France (2025)
 
 The lectures make part of the module *Machine Learning I* of the Master program [CaSSAD](https://formations.uphf.fr/fr/formations/master-master/master-mathematiques-et-applications-L07UV26X/calcul-scientifique-statistique-analyse-des-donnees-cassad-LNKF6L2K.html), INSA Hauts-de-France.
-- Introduction to machine learning
-- Linear and logistic regression
-- Regularized regression method (LASSO - RIDGE - Elastic Net)
-- Partial least squares regression
-- $k$-means
-- Principal component analysis (PCA)
-- Gaussian mixture models
+- Introduction to machine Learning
+  * Linear models
+  * Linear and logistic regression
+  * Regularized regression method (LASSO - RIDGE - Elastic Net)
+  * Partial least squares regression
+- Clustering
+  * k-means
+  * Principal component analysis (PCA)
+  * Gaussian mixture models
 
 The courses are taught in French and they are currently in progress.
