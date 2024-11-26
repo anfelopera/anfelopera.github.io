@@ -10,14 +10,28 @@ They are based on Gaussian processes and related topics. More precisely,
 The Jupyter Notebooks for the practical sessions can be download here:
 [[link]](https://github.com/anfelopera/anfelopera.github.io/raw/master/teaching/INSA_GPs/labs)
 
-## UPHF -- 2021/2022 (Valenciennes, France)
+## UPHF -- 2021/today (Valenciennes, France)
 
 The lectures make part of a complete course on mathematics for the IUT-GEII at the [Univ. Polytechnique Hauts-de-France (UPHF)](https://www.uphf.fr/en).
-The courses are taught in French and they are currently in progress.
+The courses are taught in French.
 
 | Semester | Topics |
 |:--------:|--------|
 | **S1** | - Trigonometry <br/>  - Complex numbers <br/> - Numeric functions <br/> - Derivatives <br/> - ODE 1 |
 | **S2** | - Rational fractions <br/> - Integrals <br/> - ODE 2 <br/> - Laplace transform |
-| **S3** | - Fourier series <br/> - Fourier transform <br/> - Numerical sequences and Numerical series <br/> - Z transform |
+| **S3** | - Fourier series <br/> - Fourier transform <br/> - Numerical sequences <br/> - Z transform |
+| **S4** | - Numerical series <br/> - Introduction to power series <br/> - Matrices |
+| **S5** | - Advance topics on ODE1&2 <br/> Introduction to statistics|
 
+## INSA Hauts-de-France -- 2025 (Valenciennes, France)
+
+The lectures make part of the module *Machine Learning I* of the Master program [CaSSAD](https://formations.uphf.fr/fr/formations/master-master/master-mathematiques-et-applications-L07UV26X/calcul-scientifique-statistique-analyse-des-donnees-cassad-LNKF6L2K.html), INSA Hauts-de-France.
+- Introduction to machine learning
+- Linear and logistic regression
+- Regularized regression method (LASSO - RIDGE - Elastic Net)
+- Partial least squares regression
+- $k$-means
+- Principal component analysis (PCA)
+- Gaussian mixture models
+
+The courses are taught in French and they are currently in progress.
