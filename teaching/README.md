@@ -31,7 +31,7 @@ The lectures make part of the module *Machine Learning I* of the Master program 
   * Linear and logistic regression
   * Regularized regression method (LASSO - RIDGE - Elastic Net)
   * Partial least squares regression
-- Clustering
+- Unsupervised Learning methods
   * k-means
   * Principal component analysis (PCA)
   * Gaussian mixture models
