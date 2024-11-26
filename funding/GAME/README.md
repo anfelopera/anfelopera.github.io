@@ -29,6 +29,4 @@ The project proposes both innovative theoretical and numerical contributions tha
 - 1 PhD thesis (3 years, starting in Fall 2024 or as soon as possible)
      + Status: already allocated
 
-Both offers can be found [[here]](https://github.com/anfelopera/anfelopera.github.io/raw/master/funding/phd/GAME_Joint_Offers_KernelDesign_GP_Mechanics.pdf)
-
 **To acknowledge this project:** "This work was supported by the project GAME (ANR-23-CE46-0007) of the French National Research Agency (ANR)."

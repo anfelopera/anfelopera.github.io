@@ -1,24 +1,26 @@
 ## Research projects
 
 ### Current projects
-- 4-years ANR JCJC [GAME](https://anfelopera.github.io/funding/GAME) project (2023-2027).
+- (PI) 4-years ANR JCJC [GAME](https://anfelopera.github.io/funding/GAME) project (2023-2027).
+- (Project member) 4-years ANR JCJC [GAP](https://www.math.univ-toulouse.fr/~fbachoc/ANR_GAP.html) project (2021-2025).
+
 
 ### 2023
-- 1-year PEPS JCJC project funded by the French National Centre for Scientific Research (CNRS), to work on *"Theoretical guarantees of Gaussian processes with functional inputs"*, and on *"Additive constrained Gaussian processes in high dimension"*.
+- (PI) 1-year PEPS JCJC project funded by the French National Centre for Scientific Research (CNRS), to work on *"Theoretical guarantees of Gaussian processes with functional inputs"*, and on *"Additive constrained Gaussian processes in high dimension"*.
     + Scientific team: [A. F. López-Lopera](https://anfelopera.github.io/) (PI, CERAMATHS), [L. Reding](https://www.uphf.fr/ceramaths/membres/reding_lucas) (CERAMATHS) and [F. Bachoc](https://www.math.univ-toulouse.fr/~fbachoc/) (IMT).
 
 ## Internships and PhD offers
 
-I will be posting new offers here.
-
 ### Current offers
 
+I will be posting new offers here.
+
 ### 2024
-- Master internship (6 months) and PhD (3 years) funding on *"Gaussian process modeling of mechanical random fields: a complete study from simulation to identification"*, both offers funded by the [ANR JCJC GAME](https://anfelopera.github.io/funding/GAME).
+- (PI) Master internship (6 months) and PhD (3 years) funding on *"Gaussian process modeling of mechanical random fields: a complete study from simulation to identification"*, both offers funded by the ANR JCJC [GAME](https://anfelopera.github.io/funding/GAME).
 
 ### 2023
-- 3-years PhD funding on *"Multi-fidelity adaptive design of experiments and surrogate models for data fusion in aerodynamics"*, cofunded by the ONERA and UPHF.
+- (Co-PI) 3-years PhD funding on *"Multi-fidelity adaptive design of experiments and surrogate models for data fusion in aerodynamics"*, cofunded by the ONERA and UPHF.
 
 ### 2022
-- Master internship offer (project ARI:2021-2022, [CERAMATHS](https://www.uphf.fr/ceramaths)) in cybersecurity and applied mathematics: *"Adversarial training approaches using additive Gaussian noises"*, co-supervised by [I. Alouani](https://sites.google.com/view/ihsen-alouani).
-- Master internship offer (project ARI:2021-2022, [CERAMATHS](https://www.uphf.fr/ceramaths)) in mechanics and applied mathematics: *"Kernel design for simulating random fields in mechanics with Gaussian processes"*, co-supervised by [F. Massa](https://www.uphf.fr/lamih/en/membres/massa_franck) and [I. Turpin](https://www.uphf.fr/ceramaths/en/membres/massa_turpin_isabelle).
+- (Co-PI) Master internship offer (project ARI:2021-2022, [CERAMATHS](https://www.uphf.fr/ceramaths)) in cybersecurity and applied mathematics: *"Adversarial training approaches using additive Gaussian noises"*, co-supervised by [I. Alouani](https://sites.google.com/view/ihsen-alouani).
+- (PI) Master internship offer (project ARI:2021-2022, [CERAMATHS](https://www.uphf.fr/ceramaths)) in mechanics and applied mathematics: *"Kernel design for simulating random fields in mechanics with Gaussian processes"*, co-supervised by [F. Massa](https://www.uphf.fr/lamih/en/membres/massa_franck) and [I. Turpin](https://www.uphf.fr/ceramaths/en/membres/massa_turpin_isabelle).

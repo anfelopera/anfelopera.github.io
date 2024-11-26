@@ -14,3 +14,10 @@ The Jupyter Notebooks for the practical sessions can be download here:
 
 The lectures make part of a complete course on mathematics for the IUT-GEII at the [Univ. Polytechnique Hauts-de-France (UPHF)](https://www.uphf.fr/en).
 The courses are taught in French and they are currently in progress.
+
+| Semester | Topics |
+|:--------:|--------|
+| **S1** | - Trigonometry <br/>  - Complex numbers <br/> - Numeric functions <br/> - Derivatives <br/> - ODE 1 |
+| **S2** | - Rational fractions <br/> - Integrals <br/> - ODE 2 <br/> - Laplace transform |
+| **S3** | - Fourier series <br/> - Fourier transform <br/> - Numerical sequences and Numerical series <br/> - Z transform |
+

@@ -5,7 +5,7 @@
     + PhD thesis funded by the [ANR JCJC GAME](https://anfelopera.github.io/funding/GAME/)
     + Expected starting date: November-December 2024
 
-- Mauricio Castaño, *Université Polytechnique Hauts-de-France* and *ONERA* (co-supervised by [Nathalie Bartoli](https://www.math.univ-toulouse.fr/~fbachoc/), [F. Massa](https://www.uphf.fr/lamih/en/membres/massa_franck) and [Thierry Lefebvre](https://fr.linkedin.com/in/thierry-lefebvre-3626a189)).
+- [Mauricio Castaño-Aguirre](https://orcid.org/0000-0002-2811-7847), *Université Polytechnique Hauts-de-France* and *ONERA* (co-supervised by [Nathalie Bartoli](https://www.math.univ-toulouse.fr/~fbachoc/), [F. Massa](https://www.uphf.fr/lamih/en/membres/massa_franck) and [Thierry Lefebvre](https://fr.linkedin.com/in/thierry-lefebvre-3626a189)).
     + Topic: Multi-fidelity adaptive design of experiments and surrogate models for data fusion in aerodynamics
     + PhD thesis cofunded by ONERA and UPHF
     + Starting date: January 2024
@@ -18,6 +18,8 @@
 I will be posting new offers [here](https://anfelopera.github.io/funding/).
 
 ## Current master and engineering students
+
+I will be posting new offers [here](https://anfelopera.github.io/funding/).
 
 ## Former PhD students and research assistants
 - [Tran Vi-vi E. Perrin](https://fr.linkedin.com/in/tran-vi-vi-%C3%A9lodie-perrin-48a27a130), *ONERA* (co-supervised by [Nathalie Bartoli](https://www.onera.fr/en/staff/nathalie-bartoli) and [Thierry Lefebvre](https://fr.linkedin.com/in/thierry-lefebvre-3626a189), 2021-2022)
