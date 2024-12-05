@@ -6,12 +6,12 @@ The lectures make part of the module *Machine Learning I* of the Master program 
   * Cross-validation
 - Linear models
   * Linear and logistic regression
-  * Regularized regression method (LASSO - RIDGE - Elastic Net)
-  * Partial least squares regression
+  * Regularized regression methods (LASSO - RIDGE - Elastic Net)
+  * Partial least squares
 - Unsupervised learning methods
   * k-means
-  * Principal component analysis (PCA)
   * Gaussian mixture models
+  * Principal component analysis (PCA)
 
 The courses are taught in French and they are currently in progress.
 
