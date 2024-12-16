@@ -1,8 +1,9 @@
 ## Research projects
 
 ### Current projects
-- (PI) 4-years ANR JCJC [GAME](https://anfelopera.github.io/funding/GAME) project (2023-2027).
-- (Project member) 4-years ANR JCJC [GAP](https://www.math.univ-toulouse.fr/~fbachoc/ANR_GAP.html) project (2021-2025).
+- (Co-PI) 3-year [ECOS Nord projet C25M01](https://anfelopera.github.io/funding/2025-Ecos-Nord) (2025-2027).
+- (PI) 4-year [ANR JCJC GAME](https://anfelopera.github.io/funding/2023-ANR-GAME) project (2023-2027).
+- (Project member) 4-year [ANR JCJC GAP](https://www.math.univ-toulouse.fr/~fbachoc/ANR_GAP.html) project (2021-2025).
 
 
 ### 2023
@@ -19,7 +20,7 @@ I will be posting new offers here.
 - (PI) Master internship (6 months) and PhD (3 years) funding on *"Gaussian process modeling of mechanical random fields: a complete study from simulation to identification"*, both offers funded by the ANR JCJC [GAME](https://anfelopera.github.io/funding/GAME).
 
 ### 2023
-- (Co-PI) 3-years PhD funding on *"Multi-fidelity adaptive design of experiments and surrogate models for data fusion in aerodynamics"*, cofunded by the ONERA and UPHF.
+- (Co-PI) 3-years PhD funding on *"Multi-fidelity adaptive design of experiments and surrogate models for data fusion in aerodynamics"*, co-funded by the ONERA and UPHF.
 
 ### 2022
 - (Co-PI) Master internship offer (project ARI:2021-2022, [CERAMATHS](https://www.uphf.fr/ceramaths)) in cybersecurity and applied mathematics: *"Adversarial training approaches using additive Gaussian noises"*, co-supervised by [I. Alouani](https://sites.google.com/view/ihsen-alouani).

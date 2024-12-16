@@ -2,10 +2,10 @@
 
 - [Razak SABI GNINKOU](https://bj.linkedin.com/in/razak-christophe-sabi-gninkou-b12047251), *Université Polytechnique Hauts-de-France* and *EMSE* (co-supervised by [Yacouba Boubacar Maïnassara](https://www.uphf.fr/ceramaths/membres/boubacarmainassara_yacouba), [Rodolphe Le Riche](https://www.emse.fr/~leriche/), [Franck Massa](https://www.uphf.fr/lamih/membres/massa_franck) and [Lucas Reding](https://www.uphf.fr/ceramaths/membres/reding_lucas)).
     + Topic: Gaussian process modeling of mechanical random fields: a complete study from simulation to identification
-    + PhD thesis funded by the [ANR JCJC GAME](https://anfelopera.github.io/funding/GAME/)
+    + PhD thesis funded by the [ANR JCJC GAME](https://anfelopera.github.io/funding/2023-ANR-GAME/)
     + Expected starting date: December 2024
 
-- [Mauricio Castaño-Aguirre](https://orcid.org/0000-0002-2811-7847), *Université Polytechnique Hauts-de-France* and *ONERA* (co-supervised by [Nathalie Bartoli](https://www.math.univ-toulouse.fr/~fbachoc/), [F. Massa](https://www.uphf.fr/lamih/en/membres/massa_franck) and [Thierry Lefebvre](https://fr.linkedin.com/in/thierry-lefebvre-3626a189)).
+- [Mauricio Castaño-Aguirre](https://orcid.org/0000-0002-2811-7847), *Université Polytechnique Hauts-de-France* and *ONERA* (co-supervised by [Nathalie Bartoli](https://www.onera.fr/en/staff/nathalie-bartoli), [F. Massa](https://www.uphf.fr/lamih/en/membres/massa_franck) and [Thierry Lefebvre](https://fr.linkedin.com/in/thierry-lefebvre-3626a189)).
     + Topic: Multi-fidelity adaptive design of experiments and surrogate models for data fusion in aerodynamics
     + PhD thesis cofunded by ONERA and UPHF
     + Starting date: January 2024
