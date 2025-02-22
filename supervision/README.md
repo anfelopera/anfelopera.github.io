@@ -1,6 +1,6 @@
 ## Current PhD students
 
-- [Razak SABI GNINKOU](https://bj.linkedin.com/in/razak-christophe-sabi-gninkou-b12047251), *Université Polytechnique Hauts-de-France* and *EMSE* (co-supervised by [Yacouba Boubacar Maïnassara](https://www.uphf.fr/ceramaths/membres/boubacarmainassara_yacouba), [Rodolphe Le Riche](https://www.emse.fr/~leriche/), [Franck Massa](https://www.uphf.fr/lamih/membres/massa_franck) and [Lucas Reding](https://www.uphf.fr/ceramaths/membres/reding_lucas)).
+- [Razak SABI GNINKOU](https://sabi-gninkou.github.io/), *Université Polytechnique Hauts-de-France* and *EMSE* (co-supervised by [Yacouba Boubacar Maïnassara](https://www.uphf.fr/ceramaths/membres/boubacarmainassara_yacouba), [Rodolphe Le Riche](https://www.emse.fr/~leriche/), [Franck Massa](https://www.uphf.fr/lamih/membres/massa_franck) and [Lucas Reding](https://www.uphf.fr/ceramaths/membres/reding_lucas)).
     + Topic: Gaussian process modeling of mechanical random fields: a complete study from simulation to identification
     + PhD thesis funded by the [ANR JCJC GAME](https://anfelopera.github.io/funding/2023-ANR-GAME/)
     + Expected starting date: December 2024

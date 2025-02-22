@@ -1,4 +1,4 @@
-## ECOS Nord projet C25M01 (France-Colombia) -- Large-scale probabilistic machine learning models for aerodynamic data fusion
+## ECOS Nord project C25M01 (France-Colombia) -- Large-scale probabilistic machine learning models for aerodynamic data fusion
 
 This 3-year project (starting in January 2025) is funded by the 2024 ECOS Nord call, as part of the joint research program France-Colombia.
 

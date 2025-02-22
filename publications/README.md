@@ -1,7 +1,8 @@
 ## Working Papers
-- L. F. Torres-Torres, J. Arias-García, H. F. García and A. F. López-Lopera, Gaussian process-driven hidden Markov models for early diagnosis of infant gait anomalies
+- L. F. Torres-Torres, J. Arias-García, H. F. García, A. F. López-Lopera and J. F. Vargas-Bonilla, Gaussian process-driven hidden Markov models for early diagnosis of infant gait anomalies [[HAL]](https://hal.science/hal-04937628)
 - L. Grammont, F. Bachoc, and A. F. López-Lopera, Error bounds for a kernel-based constrained optimal smoothing approximation [[HAL]](https://hal.science/hal-04645086)
 - M. Deronzier, F. Bachoc, A. F. López-Lopera and O. Roustant, Block-additive Gaussian processes under monotonicity constraints [[arXiv]](https://arxiv.org/abs/2407.13402)
+- A. Arous, A. F. Lopez-Lopera, Nael Abu-Ghazaleh and Ihsen Alouani, May the noise be with you: Adversarial training without adversarial examples [[arXiv]](https://arxiv.org/abs/2312.08877)
 - E. A. Valencia, C. K. Valencia, A. F. López-Lopera and M. A. Alvarez, Distance measures for hidden Markov models based on Hilbert space embeddings for time series classification
 
 ---

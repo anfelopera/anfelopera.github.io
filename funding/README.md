@@ -1,7 +1,7 @@
 ## Research projects
 
 ### Current projects
-- (Co-PI) 3-year [ECOS Nord projet C25M01](https://anfelopera.github.io/funding/2025-Ecos-Nord) (2025-2027).
+- (Co-PI) 3-year [ECOS Nord project C25M01](https://anfelopera.github.io/funding/2025-Ecos-Nord) (2025-2027).
 - (PI) 4-year [ANR JCJC GAME](https://anfelopera.github.io/funding/2023-ANR-GAME) project (2023-2027).
 - (Project member) 4-year [ANR JCJC GAP](https://www.math.univ-toulouse.fr/~fbachoc/ANR_GAP.html) project (2021-2025).
 
