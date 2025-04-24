@@ -18,7 +18,7 @@ The lectures make part of the module *Machine Learning I* of the Master program 
 
 The lectures are based on the following references.
 
-[1] Nicolas Verzelen and Joseph Salmon. [Cours SD204 - Linear Models](https://josephsalmon.eu/SD204.html), 2016-2018.
-[2] Christopher M. Bishop. Pattern Recognition and Machine Learning (Information Science and Statistics). Springer-Verlag, Berlin, Heidelberg, 2006.
-[3] Trevor Hastie, Robert Tibshirani, and Jerome Friedman. The Elements of Statistical Learning. Springer Series in Statistics. Springer, New York, second edition, 2009.
+[1] Nicolas Verzelen and Joseph Salmon. [Cours SD204 - Linear Models](https://josephsalmon.eu/SD204.html), 2016-2018. <br>
+[2] Christopher M. Bishop. Pattern Recognition and Machine Learning (Information Science and Statistics). Springer-Verlag, Berlin, Heidelberg, 2006. <br>
+[3] Trevor Hastie, Robert Tibshirani, and Jerome Friedman. The Elements of Statistical Learning. Springer Series in Statistics. Springer, New York, second edition, 2009. <br>
 [4] Kevin P. Murphy. Probabilistic Machine Learning: An Introduction. MIT Press, 2022.
