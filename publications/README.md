@@ -1,13 +1,13 @@
 ## Working Papers
-- L. F. Torres-Torres, J. Arias-García, H. F. García, A. F. López-Lopera and J. F. Vargas-Bonilla, Gaussian process-driven hidden Markov models for early diagnosis of infant gait anomalies [[HAL]](https://hal.science/hal-04937628)
-- L. Grammont, F. Bachoc, and A. F. López-Lopera, Error bounds for a kernel-based constrained optimal smoothing approximation [[HAL]](https://hal.science/hal-04645086)
-- M. Deronzier, F. Bachoc, A. F. López-Lopera and O. Roustant, Block-additive Gaussian processes under monotonicity constraints [[arXiv]](https://arxiv.org/abs/2407.13402)
+- L. F. Torres-Torres, J. Arias-García, H. F. García, A. F. López-Lopera and J. F. Vargas-Bonilla, Gaussian process-driven hidden Markov models for early diagnosis of infant gait anomalies, accepted for publication in the 47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2025 [[HAL]](https://hal.science/hal-04937628)
+- M. Deronzier, A. F. López-Lopera, F. Bachoc, and O. Roustant, Block-additive Gaussian processes under monotonicity constraints, Under major revision in Statistics and Computing [[arXiv]](https://arxiv.org/abs/2407.13402)
 - A. Arous, A. F. Lopez-Lopera, Nael Abu-Ghazaleh and Ihsen Alouani, May the noise be with you: Adversarial training without adversarial examples [[arXiv]](https://arxiv.org/abs/2312.08877)
 - E. A. Valencia, C. K. Valencia, A. F. López-Lopera and M. A. Alvarez, Distance measures for hidden Markov models based on Hilbert space embeddings for time series classification
 
 ---
 
 ## Publications in International Journals
+- L. Grammont, F. Bachoc, and A. F. López-Lopera, Error bounds for a kernel-based constrained optimal smoothing approximation, accepted for publication in SIAM/ASA Journal on Uncertainty Quantification, 2025 [[HAL]](https://hal.science/hal-04645086)
 - L. Reding, A. F. López-Lopera and F. Bachoc, Covariance parameter estimation of Gaussian processes with approximated functional inputs, Journal of Multivariate Analysis 205:105380, 2025 [[doi]](https://doi.org/10.1016/j.jmva.2024.105380) [[arXiv]](https://arxiv.org/abs/2404.17222) [[github]](https://github.com/anfelopera/fGPs)
 - H. Valayer, N. Bartoli, M. Castaño-Aguirre, R. Lafage, T. Lefebvre, A. F. López-Lopera, and S. Mouton, A Python toolbox for data-driven aerodynamic modeling using sparse Gaussian processes, Aerospace 11(4): 260, 2024 [[doi]](https://doi.org/10.3390/aerospace11040260) [[github]](https://github.com/SMTorg/smt-sgp-paper)
 - F. Bachoc, A. F. López-Lopera and O. Roustant, Sequential construction and dimension reduction of Gaussian processes under inequality constraints, SIAM Journal on Mathematics of Data Science 4(2):772-800, 2022 [[doi]](https://doi.org/10.1137/21M1407513) [[arXiv]](https://arxiv.org/abs/2009.04188) [[github]](https://github.com/anfelopera/lineqGPR) [[talk]](https://www.youtube.com/watch?v=SpGrecIO6o0)

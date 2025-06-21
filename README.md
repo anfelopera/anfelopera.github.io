@@ -7,10 +7,10 @@
 - My research interests include applied mathematics, machine learning and computer science topics. More precisely, Gaussian processes, kernel design and probabilistic surrogate models.
 
 ## News
-- New paper: [*"Asymptotic analysis for covariance parameter estimation of Gaussian processes with functional inputs"*](https://arxiv.org/abs/2404.17222), a joint work with L. Reding and F. Bachoc, has been accepted for publication in Journal of Multivariate Analysis.
+- New paper: [*"Error bounds for a kernel-based constrained optimal smoothing approximation"*](https://hal.science/hal-04645086), a joint work with L. Grammont and F. Bachoc, has been accepted for publication in SIAM/ASA Journal on Uncertainty Quantification, 2025.
+- New conference paper: [*"Gaussian process-driven hidden Markov models for early diagnosis of infant gait anomalies"*](https://hal.science/hal-04937628), a joint work with L. F. Torres-Torres, J. Arias-García, H. F. García and J. F. Vargas-Bonilla, has been accepted for publication in the 47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2025. 
+- New paper: [*"Asymptotic analysis for covariance parameter estimation of Gaussian processes with functional inputs"*](https://arxiv.org/abs/2404.17222), a joint work with L. Reding and F. Bachoc, has been accepted for publication in Journal of Multivariate Analysis, 2025.
 - New preprint: [*"Block-additive Gaussian processes under monotonicity constraints"*](https://arxiv.org/abs/2407.13402), M. Deronzier, F. Bachoc, J. Rohmer and O. Roustant.
-- New preprint: [*"Error bounds for a kernel-based constrained optimal smoothing approximation"*](https://hal.science/hal-04645086), a joint work with L. Grammont and F. Bachoc.
-- New paper: [*"A Python toolbox for data-driven aerodynamic modeling using sparse Gaussian processes"*](https://doi.org/10.3390/aerospace11040260), a joint work with H. Valayer, N. Bartoli, M. Castaño-Aguirre, R. Lafage, T. Lefebvre and S. Mouton, is officially published in Aerospace 11(4): 260.
 - I'm thrilled to announce that the 4-year ANR JCJC [GAME (*GAussian process modeling of transient MEchanical random fields: a complete study from simulation to identification*)](https://anfelopera.github.io/funding/GAME) project, in which I'm the PI, has been successfully chosen for funding. This is a joint work with F. Massa, L. Reding, I. Turpin (UPHF), J. Bruchon and R. Le Riche (EMSE)!
 <br>
 
