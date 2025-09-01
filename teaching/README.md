@@ -11,7 +11,7 @@ The lectures make part of the module *Machine Learning I* of the Master program 
 - Classification [[slides]](https://github.com/anfelopera/anfelopera.github.io/raw/master/teaching/INSA_HdF_ML/S4_logistic_regression_LDA.pdf)
   * Linear discriminant analysis
   * Logistic regression
-- Unsupervised learning methods [[slides]](https://github.com/anfelopera/anfelopera.github.io/raw/master/teaching/INSA_HdF_ML/S5_clustering.pdf) [[]]
+- Unsupervised learning methods [[slides]](https://github.com/anfelopera/anfelopera.github.io/raw/master/teaching/INSA_HdF_ML/S5_clustering.pdf)
   * k-means
   * Gaussian mixture models
   * Principal component analysis (PCA)
