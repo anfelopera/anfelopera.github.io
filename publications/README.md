@@ -1,5 +1,7 @@
 ## Working Papers
-- M. Deronzier, A. F. López-Lopera, F. Bachoc, and O. Roustant, Block-additive Gaussian processes under monotonicity constraints, Under major revision in Statistics and Computing [[arXiv]](https://arxiv.org/abs/2407.13402)
+- R. C. Sabi Gninkou, A. F. López-Lopera, F. Massa, and R. Le Riche, Multitask Gaussian processes for scalable modeling of complex systems with functional covariates, work in progress
+- M. Castaño-Aguirre, A. F. López-Lopera, N. Bartoli, F. Massa, and T. Lefebvre, Scalable sparse co-Kriging for multi-fidelity data fusion: An application to aerodynamics, work submitted in a journal
+- M. Deronzier, A. F. López-Lopera, F. Bachoc, and O. Roustant, Block-additive Gaussian processes under monotonicity constraints, under major revision in Statistics and Computing [[arXiv]](https://arxiv.org/abs/2407.13402)
 - A. Arous, A. F. Lopez-Lopera, Nael Abu-Ghazaleh and Ihsen Alouani, May the noise be with you: Adversarial training without adversarial examples [[arXiv]](https://arxiv.org/abs/2312.08877)
 - E. A. Valencia, C. K. Valencia, A. F. López-Lopera and M. A. Alvarez, Distance measures for hidden Markov models based on Hilbert space embeddings for time series classification
 

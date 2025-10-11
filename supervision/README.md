@@ -1,6 +1,6 @@
 ## Current PhD students
 
-- [Razak SABI GNINKOU](https://sabi-gninkou.github.io/), *Université Polytechnique Hauts-de-France* and *EMSE* (co-supervised by [Yacouba Boubacar Maïnassara](https://www.uphf.fr/ceramaths/membres/boubacarmainassara_yacouba), [Rodolphe Le Riche](https://www.emse.fr/~leriche/), [Franck Massa](https://www.uphf.fr/lamih/membres/massa_franck) and [Lucas Reding](https://www.uphf.fr/ceramaths/membres/reding_lucas)).
+- [Razak SABI GNINKOU](https://sabi-gninkou.github.io/), *Université Polytechnique Hauts-de-France* and *EMSE* (co-supervised by [Yacouba Boubacar Maïnassara](https://www.uphf.fr/ceramaths/membres/boubacarmainassara_yacouba), [Rodolphe Le Riche](https://www.emse.fr/~leriche/) and [Lucas Reding](https://www.uphf.fr/ceramaths/membres/reding_lucas)).
     + Topic: Gaussian process modeling of mechanical random fields: a complete study from simulation to identification
     + PhD thesis funded by the [ANR JCJC GAME](https://anfelopera.github.io/funding/2023-ANR-GAME/)
     + Expected starting date: December 2024
@@ -10,7 +10,7 @@
     + PhD thesis cofunded by ONERA and UPHF
     + Starting date: January 2024
 
-- [Mathis Deronzier](https://fr.linkedin.com/in/mathis-deronzier-305a29182), *Institut de Mathématiques de Toulouse* (co-supervised by [François Bachoc](https://www.math.univ-toulouse.fr/~fbachoc/) and [Olivier Roustant](https://olivier-roustant.fr/)).
+- [Mathis Deronzier](https://fr.linkedin.com/in/mathis-deronzier-305a29182), *Institut de Mathématiques de Toulouse* (co-supervised by [François Bachoc](https://francoisbachoc.github.io/) and [Olivier Roustant](https://olivier-roustant.fr/)).
     + Topic: Additive constrained Gaussian processes in high dimension
     + PhD thesis funded by the [ANR JCJC GAP](https://www.math.univ-toulouse.fr/~fbachoc/ANR_GAP.html)
     + Starting date: April 2023

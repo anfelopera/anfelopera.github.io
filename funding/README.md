@@ -3,10 +3,9 @@
 ### Current projects
 - (Co-PI) 3-year [ECOS Nord project C25M01](https://anfelopera.github.io/funding/2025-Ecos-Nord) (2025-2027).
 - (PI) 4-year [ANR JCJC GAME](https://anfelopera.github.io/funding/2023-ANR-GAME) project (2023-2027).
-- (Project member) 4-year [ANR JCJC GAP](https://www.math.univ-toulouse.fr/~fbachoc/ANR_GAP.html) project (2021-2025).
 
-
-### 2023
+### Previous projects
+- (Project member) 4-year [ANR JCJC GAP](https://francoisbachoc.github.io/ANR_GAP.html) project (2021-2025).
 - (PI) 1-year PEPS JCJC project funded by the French National Centre for Scientific Research (CNRS), to work on *"Theoretical guarantees of Gaussian processes with functional inputs"*, and on *"Additive constrained Gaussian processes in high dimension"*.
     + Scientific team: [A. F. López-Lopera](https://anfelopera.github.io/) (PI, CERAMATHS), [L. Reding](https://www.uphf.fr/ceramaths/membres/reding_lucas) (CERAMATHS) and [F. Bachoc](https://www.math.univ-toulouse.fr/~fbachoc/) (IMT).
 

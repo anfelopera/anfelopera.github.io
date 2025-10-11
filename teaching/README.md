@@ -1,3 +1,17 @@
+## Polytech Montpellier, France (since 2025)
+
+### Optimization for Data Science
+
+(coming soon...)
+
+### Machine Learning 
+
+(coming soon...)
+
+### Computational Statistics
+
+(coming soon...)
+
 ## INSA Hauts-de-France, France (2025)
 
 The lectures make part of the module *Machine Learning I* of the Master program [CaSSAD](https://formations.uphf.fr/fr/formations/master-master/master-mathematiques-et-applications-L07UV26X/calcul-scientifique-statistique-analyse-des-donnees-cassad-LNKF6L2K.html), INSA Hauts-de-France.
