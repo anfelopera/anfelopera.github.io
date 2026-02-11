@@ -8,12 +8,12 @@
 - My research interests include applied mathematics, machine learning and computer science topics. More precisely, Gaussian processes, kernel design and probabilistic surrogate models.
 
 ## News
+- New paper: [*"Block-additive Gaussian processes under monotonicity constraints"*](https://doi.org/10.1007/s11222-025-10791-8), M. Deronzier, F. Bachoc, J. Rohmer and O. Roustant.
 - I'm happy to share that the 3-year PHC Maimonide project to work on [a Bayesian approach to constrained Gaussian and Student-t processes with applications to regression and global optimization](https://anfelopera.github.io/funding/2026-PHC-Maimonide), in which I'm the PI in France, has been successfully selected for funding. This is a joint work with A. Pakman (PI in Israel, Ben-Gurion University, Israel) and G. Toulemonde (IMAG, Inria LEMON).
 - New paper: [*"Error bounds for a kernel-based constrained optimal smoothing approximation"*](https://doi.org/10.1137/24M1676491), a joint work with L. Grammont and F. Bachoc, is now published in SIAM/ASA Journal on Uncertainty Quantification, 2025.
 - New conference paper: [*"Gaussian process-driven hidden Markov models for early diagnosis of infant gait anomalies"*](https://hal.science/hal-04937628), a joint work with L. F. Torres-Torres, J. Arias-García, H. F. García and J. F. Vargas-Bonilla, has been accepted for publication in the 47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2025. 
 - New paper: [*"Asymptotic analysis for covariance parameter estimation of Gaussian processes with functional inputs"*](https://arxiv.org/abs/2404.17222), a joint work with L. Reding and F. Bachoc, has been accepted for publication in Journal of Multivariate Analysis, 2025.
 - I'm delighted to announce that the 3-year Ecos-Nord C25M01 project to work on [large-scale probabilistic machine learning models for aerodynamic data fusion](https://anfelopera.github.io/funding/2025-Ecos-Nord), in which I'm the PI in France, has been successfully selected for funding. This is a joint work with H. Garcia (Universidad de Anttioquia, Colombia).
-- New preprint: [*"Block-additive Gaussian processes under monotonicity constraints"*](https://arxiv.org/abs/2407.13402), M. Deronzier, F. Bachoc, J. Rohmer and O. Roustant.
 - I'm thrilled to announce that the 4-year ANR JCJC [GAME (*GAussian process modeling of transient MEchanical random fields: a complete study from simulation to identification*)](https://anfelopera.github.io/funding/2023-ANR-GAME) project, in which I'm the PI, has been successfully chosen for funding. This is a joint work with F. Massa, L. Reding, I. Turpin (UPHF), J. Bruchon and R. Le Riche (EMSE)!
 <br>
 

@@ -2,6 +2,8 @@
 
 This 4-year project (starting in November 2023) is funded by the French National Research Agency (ANR, abbreviation in French), as part of the call for young researcher projects. 
 
+[**ANR website**](https://anr.fr/Project-ANR-23-CE46-0007)
+
 ### Consortium
 - Université Polytechnique Hauts-de-France (UPHF)
      + [A. F. López-Lopera](https://anfelopera.github.io/) (PI), CERAMATHS
@@ -24,9 +26,10 @@ The project proposes both innovative theoretical and numerical contributions tha
 **Keywords.** Mechanical codes, stochastic modeling and simulation, uncertainty quantification, functional data, kernel design, machine learning, reverse-engineering.
 
 ### Funding opportunities
-- 1 Master internship (6 months, starting in Spring 2024)
+- 1 Master internship (6 months, spring 2024)
      + Status: already allocated
-- 1 PhD thesis (3 years, starting in Fall 2024 or as soon as possible)
-     + Status: already allocated
+- 1 PhD thesis (3 years, started in december 2025)
+     + Status: [Razak SABI GNINKOU](https://sabi-gninkou.github.io/)
 
 **To acknowledge this project:** "This work was supported by the project GAME (ANR-23-CE46-0007) of the French National Research Agency (ANR)."
+

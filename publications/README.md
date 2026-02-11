@@ -1,13 +1,13 @@
 ## Working Papers
 - R. C. Sabi Gninkou, A. F. López-Lopera, F. Massa, and R. Le Riche, Multitask Gaussian processes for scalable modeling of complex systems with functional covariates, work in progress
-- M. Castaño-Aguirre, A. F. López-Lopera, N. Bartoli, F. Massa, and T. Lefebvre, Scalable sparse co-Kriging for multi-fidelity data fusion: An application to aerodynamics, work submitted in a journal
-- M. Deronzier, A. F. López-Lopera, F. Bachoc, and O. Roustant, Block-additive Gaussian processes under monotonicity constraints, under major revision in Statistics and Computing [[arXiv]](https://arxiv.org/abs/2407.13402)
+- M. Castaño-Aguirre, A. F. López-Lopera, N. Bartoli, F. Massa, and T. Lefebvre, Scalable sparse co-Kriging for multi-fidelity data fusion: An application to aerodynamics, under major revision in Reliability Engineering and System Safety 2025
 - A. Arous, A. F. Lopez-Lopera, Nael Abu-Ghazaleh and Ihsen Alouani, May the noise be with you: Adversarial training without adversarial examples [[arXiv]](https://arxiv.org/abs/2312.08877)
 - E. A. Valencia, C. K. Valencia, A. F. López-Lopera and M. A. Alvarez, Distance measures for hidden Markov models based on Hilbert space embeddings for time series classification
 
 ---
 
 ## Publications in International Journals
+- M. Deronzier, A. F. López-Lopera, F. Bachoc, and O. Roustant, Block-additive Gaussian processes under monotonicity constraints, Statistics and Computing 36:42, 2026 [[doi]](https://doi.org/10.1007/s11222-025-10791-8) [[arXiv]](https://arxiv.org/abs/2407.13402)
 - L. Grammont, F. Bachoc, and A. F. López-Lopera, Error bounds for a kernel-based constrained optimal smoothing approximation, SIAM/ASA Journal on Uncertainty Quantification 13(3): 1145-1173, 2025 [[doi]](https://doi.org/10.1137/24M1676491) [[HAL]](https://hal.science/hal-04645086)
 - L. Reding, A. F. López-Lopera and F. Bachoc, Covariance parameter estimation of Gaussian processes with approximated functional inputs, Journal of Multivariate Analysis 205: 105380, 2025 [[doi]](https://doi.org/10.1016/j.jmva.2024.105380) [[arXiv]](https://arxiv.org/abs/2404.17222) [[github]](https://github.com/anfelopera/fGPs)
 - H. Valayer, N. Bartoli, M. Castaño-Aguirre, R. Lafage, T. Lefebvre, A. F. López-Lopera, and S. Mouton, A Python toolbox for data-driven aerodynamic modeling using sparse Gaussian processes, Aerospace 11(4): 260, 2024 [[doi]](https://doi.org/10.3390/aerospace11040260) [[github]](https://github.com/SMTorg/smt-sgp-paper)
@@ -22,7 +22,7 @@
 ---
 
 ## Proceedings in International Conférences
-- L. F. Torres-Torres, J. Arias-García, H. F. García, A. F. López-Lopera and J. F. Vargas-Bonilla, Gaussian process-driven hidden Markov models for early diagnosis of infant gait anomalies, IEEE EMBC 2025, Copenhagen, Denmark  [[HAL]](https://hal.science/hal-04937628)
+- L. F. Torres-Torres, J. Arias-García, H. F. García, A. F. López-Lopera and J. F. Vargas-Bonilla, Gaussian process-driven hidden Markov models for early diagnosis of infant gait anomalies, IEEE EMBC 2025, Copenhagen, Denmark  [[doi]](https://doi.org/10.1109/EMBC58623.2025.11254881) [[HAL]](https://hal.science/hal-04937628)
 - A. F. López-Lopera, F. Bachoc and O. Roustant, High-dimensional additive Gaussian processes under monotonicity constraints, NeurIPS 2022, New Orleans, USA [[url]](https://proceedings.neurips.cc/paper_files/paper/2022/hash/34b70ece5f8d273fd670a17e2248d034-Abstract-Conference.html) [[arXiv]](https://arxiv.org/abs/2205.08528)
 - A. F. López-Lopera, F. Massa, I. Turpin and N. Leconte, Modeling complex mechanical computer codes with functional input via Gaussian processes, in CILAMCE 2022, Foz do Iguaçu, Paraná, Brazil [[url]](https://www.cilamce.com.br/anais/index.php?ano=2022) [[HAL]](https://hal.archives-ouvertes.fr/hal-03882473/)
 - R. Conde-Arenzana, A. F. López-Lopera, S. Mouton, N. Bartoli and T. Lefebvre, Multi-fidelity Gaussian process model for CFD and wind tunnel data fusion, Aerobest 2021, Lisbon, Portugal (online) [[url]](https://aerobest2021.idmec.tecnico.ulisboa.pt/publications/#proceedings) [[HAL]](https://hal.archives-ouvertes.fr/hal-03346321/)

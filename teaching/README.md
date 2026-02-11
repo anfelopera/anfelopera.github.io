@@ -1,12 +1,39 @@
 ## Polytech Montpellier, France (since 2025)
 
 ### Optimization for Data Science
-
-(coming soon...)
+- Basis on numerical linear algebra with python (numpy)
+- Introduction to convex optimization
+  * Definitions and concepts
+  * Optimization problems and nature of minima
+  * Sufficient condition
+- Linear programming
+  * Graphical approach
+  * Simplex method
+  * Dual problem
+- Differentiable non-linear optimization 
+  * Sufficient and necessary conditions
+  * Descent methods (gradient descent, Newton method, BFGS)
+  * Lagrange multipliers
+  * KKT conditions
+- Optimization in machine Learning
+  * Regularization for linear models
+  * Stochastic gradient descent
 
 ### Machine Learning 
 
-(coming soon...)
+- Introduction to machine Learning
+  * Supervised and unsupervised learning
+  * Cross-validation
+- Linear models 
+  * Recall to Linear regression 
+  * Regularized regression methods (LASSO - RIDGE - Elastic Net)
+- Classification 
+  * Linear discriminant analysis
+  * Logistic regression
+  * Nearest neighbors
+- Unsupervised learning methods 
+  * k-means
+  * Gaussian mixture models
 
 ### Computational Statistics
 
