@@ -6,7 +6,7 @@ This 3-year project (starting in January 2025) is funded by the 2024 ECOS Nord c
 
 ### Research team
 - French team
-     + [A. F. López-Lopera](https://anfelopera.github.io/) (PI in France), CERAMATHS, UPHF
+     + [A. F. López-Lopera](https://anfelopera.github.io/) (PI in France), IMAG, Univ. de Montpellier, Inria LEMON
      + [N. Bartoli](https://www.onera.fr/en/staff/nathalie-bartoli), ONERA
      + [F. Massa](https://www.uphf.fr/lamih/en/membres/massa_franck), LAMIH, UPHF
      + M. Castaño-Aguirre, ONERA, CERAMATHS-LAMIH, UPHF

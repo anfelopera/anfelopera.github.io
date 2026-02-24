@@ -6,14 +6,11 @@ This 3-year project (starting in January 2026) is funded by the 2025 PHC Maïmon
 
 ### Research team
 
-* France
-
-  * [A. F. López-Lopera](https://anfelopera.github.io/) (PI in France), IMAG, Univ. de Montpellier, Inria LEMON
-  * [G. Toulemonde](https://imag.umontpellier.fr/~toulemonde/index.html), IMAG, Univ. de Montpellier, Inria LEMON
-
-* Israel
-
-  * [A. Pakman](https://aripakman.github.io/) (PI in Israel), Ben-Gurion University
+- France
+     + [A. F. López-Lopera](https://anfelopera.github.io/) (PI in France), IMAG, Univ. de Montpellier, Inria LEMON
+     + [G. Toulemonde](https://imag.umontpellier.fr/~toulemonde/index.html), IMAG, Univ. de Montpellier, Inria LEMON
+- Israel
+     + [A. Pakman](https://aripakman.github.io/) (PI in Israel), Ben-Gurion University
 
 ### Summary
 

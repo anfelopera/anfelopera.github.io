@@ -7,11 +7,11 @@ This 4-year project (starting in November 2023) is funded by the French National
 [**ANR website**](https://anr.fr/Project-ANR-23-CE46-0007)
 
 ### Consortium
+- Université de Montpellier (UM)
+     + [A. F. López-Lopera](https://anfelopera.github.io/) (PI), IMAG, Univ. de Montpellier, Inria LEMON (formerly CERAMATHS, UPHF)
 - Université Polytechnique Hauts-de-France (UPHF)
-     + [A. F. López-Lopera](https://anfelopera.github.io/) (PI), CERAMATHS
      + [F. Massa](https://www.uphf.fr/lamih/en/membres/massa_franck), LAMIH
      + [L. Reding](https://www.uphf.fr/ceramaths/membres/reding_lucas), CERAMATHS
-     + [I. Turpin](https://www.uphf.fr/ceramaths/en/membres/massa_turpin_isabelle), CERAMATHS
 - Mines Saint-Etienne (EMSE): 
      + [J. Bruchon](https://www.emse.fr/~bruchon/index_english.html), SMS
      + [R. Le Riche](https://www.emse.fr/~leriche/), LIMOS, CNRS
@@ -34,4 +34,3 @@ The project proposes both innovative theoretical and numerical contributions tha
      + Status: [Razak SABI GNINKOU](https://sabi-gninkou.github.io/)
 
 **To acknowledge this project:** "This work was supported by the project GAME (ANR-23-CE46-0007) of the French National Research Agency (ANR)."
-
