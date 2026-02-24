@@ -1,7 +1,5 @@
 ## Working Papers
-<<<<<<< HEAD
 - R. C. Sabi Gninkou, A. F. López-Lopera, F. Massa, and R. Le Riche, Scalable multitask Gaussian processes for complex mechanical systems with functional covariates [[HAL]](https://hal.science/hal-05524247)
-=======
 - R. C. Sabi Gninkou, A. F. López-Lopera, F. Massa, and R. Le Riche, Multitask Gaussian processes for scalable modeling of complex systems with functional covariates, work in progress
 - M. Castaño-Aguirre, A. F. López-Lopera, N. Bartoli, F. Massa, and T. Lefebvre, Sparse approximation of recursive multi-fidelity Kriging for data fusion in aerodynamics, accepted in the 17th French Colloquium of Structural Analysis, 2025
 >>>>>>> 48b8d0038b1b530820a426dc8e7a221338e25409
