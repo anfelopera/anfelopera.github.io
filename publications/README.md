@@ -1,5 +1,10 @@
 ## Working Papers
+<<<<<<< HEAD
 - R. C. Sabi Gninkou, A. F. López-Lopera, F. Massa, and R. Le Riche, Scalable multitask Gaussian processes for complex mechanical systems with functional covariates [[HAL]](https://hal.science/hal-05524247)
+=======
+- R. C. Sabi Gninkou, A. F. López-Lopera, F. Massa, and R. Le Riche, Multitask Gaussian processes for scalable modeling of complex systems with functional covariates, work in progress
+- M. Castaño-Aguirre, A. F. López-Lopera, N. Bartoli, F. Massa, and T. Lefebvre, Sparse approximation of recursive multi-fidelity Kriging for data fusion in aerodynamics, accepted in the 17th French Colloquium of Structural Analysis, 2025
+>>>>>>> 48b8d0038b1b530820a426dc8e7a221338e25409
 - M. Castaño-Aguirre, A. F. López-Lopera, N. Bartoli, F. Massa, and T. Lefebvre, Scalable sparse co-Kriging for multi-fidelity data fusion: An application to aerodynamics, under major revision in Reliability Engineering and System Safety 2025
 - A. Arous, A. F. Lopez-Lopera, Nael Abu-Ghazaleh and Ihsen Alouani, May the noise be with you: Adversarial training without adversarial examples [[arXiv]](https://arxiv.org/abs/2312.08877)
 - E. A. Valencia, C. K. Valencia, A. F. López-Lopera and M. A. Alvarez, Distance measures for hidden Markov models based on Hilbert space embeddings for time series classification
@@ -60,3 +65,4 @@
 - A. F. López-Lopera, "Selección de la mejor base para la caracterización de perturbaciones en señales de calidad de potencia usando transformaciones tiempo/frecuencia" (in Spanish), Bachelor's thesis, Electrical Engineering Program, [Universidad Tecnológica de Pereira](https://www.utp.edu.co/), 2013 [[pdf]](https://github.com/anfelopera/anfelopera.github.io/raw/master/publications/thesis/LopezLopera2013_BScThesis.pdf)
 
 ---
+
