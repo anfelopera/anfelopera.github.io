@@ -1,4 +1,6 @@
-## ANR JCJC GAME -- GAussian process modeling of MEchanical random fields: a complete study from simulation to identification
+## ANR JCJC GAME 
+
+### GAussian process modeling of MEchanical random fields: a complete study from simulation to identification
 
 This 4-year project (starting in November 2023) is funded by the French National Research Agency (ANR, abbreviation in French), as part of the call for young researcher projects. 
 
