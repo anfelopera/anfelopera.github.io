@@ -19,7 +19,7 @@ This research project aims to advance Bayesian methodologies for Gaussian and St
 * Bayesian parameter estimation methods for constrained GPs and TPs.
 * Applications to regression and optimization tasks in engineering and machine learning.
 
-**Keywords.** Bayesian parameter Inference, inequality constraints, MCMC, outlier-robust distributions, stochastic processes.
+**Keywords.** Bayesian parameter inference, inequality constraints, MCMC, outlier-robust distributions, stochastic processes.
 
 **To acknowledge this project:** "This work was funded by the 2025 PHC Maïmonide call."
 

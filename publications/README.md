@@ -1,5 +1,5 @@
 ## Working Papers
-- R. C. Sabi Gninkou, A. F. López-Lopera, F. Massa, and R. Le Riche, Multitask Gaussian processes for scalable modeling of complex systems with functional covariates, work in progress
+- R. C. Sabi Gninkou, A. F. López-Lopera, F. Massa, and R. Le Riche, Scalable multitask Gaussian processes for complex mechanical systems with functional covariates [[HAL]](https://hal.science/hal-05524247)
 - M. Castaño-Aguirre, A. F. López-Lopera, N. Bartoli, F. Massa, and T. Lefebvre, Scalable sparse co-Kriging for multi-fidelity data fusion: An application to aerodynamics, under major revision in Reliability Engineering and System Safety 2025
 - A. Arous, A. F. Lopez-Lopera, Nael Abu-Ghazaleh and Ihsen Alouani, May the noise be with you: Adversarial training without adversarial examples [[arXiv]](https://arxiv.org/abs/2312.08877)
 - E. A. Valencia, C. K. Valencia, A. F. López-Lopera and M. A. Alvarez, Distance measures for hidden Markov models based on Hilbert space embeddings for time series classification

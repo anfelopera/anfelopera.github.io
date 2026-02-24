@@ -1,7 +1,8 @@
 ## Research projects
 
 ### Current projects
-- (Co-PI) 3-year [ECOS Nord project C25M01](https://anfelopera.github.io/funding/2025-Ecos-Nord) (2025-2027).
+- (PI in France) 3-year [PHC Maïmonide project](https://anfelopera.github.io/funding/2025-PHC-Maimonide) (2026-2028).
+- (PI in France) 3-year [ECOS Nord project C25M01](https://anfelopera.github.io/funding/2025-Ecos-Nord) (2025-2027).
 - (PI) 4-year [ANR JCJC GAME](https://anfelopera.github.io/funding/2023-ANR-GAME) project (2023-2027).
 
 ### Previous projects

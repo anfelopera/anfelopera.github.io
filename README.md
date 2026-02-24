@@ -8,7 +8,8 @@
 - My research interests include applied mathematics, machine learning and computer science topics. More precisely, Gaussian processes, kernel design and probabilistic surrogate models.
 
 ## News
-- New paper: [*"Block-additive Gaussian processes under monotonicity constraints"*](https://doi.org/10.1007/s11222-025-10791-8), M. Deronzier, F. Bachoc, J. Rohmer and O. Roustant.
+- New preprint: [*"Scalable multitask Gaussian processes for complex mechanical systems with functional covariates"*](https://hal.science/hal-05524247), a joint work with R. C. Sabi Gninkou, F. Massa and R. Le Riche.
+- New paper: [*"Block-additive Gaussian processes under monotonicity constraints"*](https://doi.org/10.1007/s11222-025-10791-8), a joint work with M. Deronzier, F. Bachoc, J. Rohmer and O. Roustant.
 - I'm happy to share that the 3-year PHC Maimonide project to work on [a Bayesian approach to constrained Gaussian and Student-t processes with applications to regression and global optimization](https://anfelopera.github.io/funding/2026-PHC-Maimonide), in which I'm the PI in France, has been successfully selected for funding. This is a joint work with A. Pakman (PI in Israel, Ben-Gurion University, Israel) and G. Toulemonde (IMAG, Inria LEMON).
 - New paper: [*"Error bounds for a kernel-based constrained optimal smoothing approximation"*](https://doi.org/10.1137/24M1676491), a joint work with L. Grammont and F. Bachoc, is now published in SIAM/ASA Journal on Uncertainty Quantification, 2025.
 - New conference paper: [*"Gaussian process-driven hidden Markov models for early diagnosis of infant gait anomalies"*](https://hal.science/hal-04937628), a joint work with L. F. Torres-Torres, J. Arias-García, H. F. García and J. F. Vargas-Bonilla, has been accepted for publication in the 47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2025. 
