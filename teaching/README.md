@@ -19,7 +19,7 @@
   * Regularization for linear models
   * Stochastic gradient descent
 
-### Machine Learning 
+### Fundamentals of Machine Learning 
 
 - Introduction to machine Learning
   * Supervised and unsupervised learning
@@ -32,12 +32,18 @@
   * Logistic regression
   * Nearest neighbors
 - Unsupervised learning methods 
-  * k-means
+  * $k$-means
   * Gaussian mixture models
 
 ### Computational Statistics
-
-(coming soon...)
+- Recall to random variables (with Python)
+- Simulation of random variables
+  * Uniform distribution 
+  * Simulation methods (inversion, rejection, etc.) 
+- Monte Carlo 
+  * Principle and theoretical properties
+  * Variance reduction
+- Resampling & bootstrap
 
 ## INSA Hauts-de-France, France (2025)
 
