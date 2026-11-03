@@ -1,6 +1,6 @@
 ## Polytech Montpellier, France (since 2025)
 
-### Optimization for Data Science
+### XA1S517 Optimization for Data Science
 - Basis on numerical linear algebra with python (numpy)
 - Introduction to convex optimization
   * Definitions and concepts
@@ -19,8 +19,7 @@
   * Regularization for linear models
   * Stochastic gradient descent
 
-### Fundamentals of Machine Learning 
-
+### XA1S747 Fundamentals of Machine Learning 
 - Introduction to machine Learning
   * Supervised and unsupervised learning
   * Cross-validation
@@ -35,7 +34,7 @@
   * $k$-means
   * Gaussian mixture models
 
-### Computational Statistics
+### XA1S810C Computational Statistics
 - Recall to random variables (with Python)
 - Simulation of random variables
   * Uniform distribution 
@@ -48,6 +47,7 @@
 ## INSA Hauts-de-France, France (2025)
 
 The lectures make part of the module *Machine Learning I* of the Master program [CaSSAD](https://formations.uphf.fr/fr/formations/master-master/master-mathematiques-et-applications-L07UV26X/calcul-scientifique-statistique-analyse-des-donnees-cassad-LNKF6L2K.html), INSA Hauts-de-France.
+
 - Introduction to machine Learning [[slides]](https://github.com/anfelopera/anfelopera.github.io/raw/master/teaching/INSA_HdF_ML/S1_intro_ML.pdf)
   * Supervised and unsupervised learning
   * Cross-validation

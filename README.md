@@ -8,6 +8,7 @@
 - My research interests include applied mathematics, machine learning and computer science topics. More precisely, Gaussian processes, kernel design and probabilistic surrogate models.
 
 ## News
+- New funding offer : Master internship (4-6 months, late winter or early spring 2027) on ["Student $t$-processes under inequality constraints"](https://github.com/anfelopera/anfelopera.github.io/raw/master/funding/2026-PHC-Maimonide/Maimomide_Internship_Offer_2026_contrs_proc.pdf)
 - New preprint: [*"Scalable multitask Gaussian processes for complex mechanical systems with functional covariates"*](https://hal.science/hal-05524247), a joint work with R. C. Sabi Gninkou, F. Massa and R. Le Riche.
 - New paper: [*"Block-additive Gaussian processes under monotonicity constraints"*](https://doi.org/10.1007/s11222-025-10791-8), M. Deronzier, F. Bachoc, J. Rohmer and O. Roustant.
 - I'm happy to share that the 3-year PHC Maimonide project to work on [a Bayesian approach to constrained Gaussian and Student-t processes with applications to regression and global optimization](https://anfelopera.github.io/funding/2026-PHC-Maimonide), in which I'm the PI in France, has been successfully selected for funding. This is a joint work with A. Pakman (PI in Israel, Ben-Gurion University, Israel) and G. Toulemonde (IMAG, Inria LEMON).

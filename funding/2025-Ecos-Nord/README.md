@@ -24,8 +24,8 @@ This project seeks to establish machine learning models that can account for lar
 		
 **Keywords.** Aerodynamic codes, probabilistic modeling and simulation, uncertainty quantification, multi-fidelity, machine learning, Gaussian processes.
 
+**To acknowledge this project:** "This work was carried out as part of the ECOS Nord project C25M01."
+
 ### Publications
 - M. Castaño-Aguirre, A. F. López-Lopera, N. Bartoli, F. Massa, and T. Lefebvre, Scalable sparse co-Kriging for multi-fidelity data fusion: An application to aerodynamics, Reliability Engineering and System Safety, 272(1): 112485, 2026 [[doi]](https://doi.org/10.1016/j.ress.2026.112485) [[preprint]](https://hal.science/hal-05530684v2/)
 - M. Castaño-Aguirre, A. F. López-Lopera, N. Bartoli, F. Massa, and T. Lefebvre, Sparse approximation of recursive multi-fidelity Kriging for data fusion in aerodynamics, Proceedings in 17th French Colloquium of Structural Analysis, 2026
-
-**To acknowledge this project:** "This work was conducted as part of the ECOS Nord project C25M01."

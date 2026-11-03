@@ -22,5 +22,9 @@ This research project aims to advance Bayesian methodologies for Gaussian and St
 
 **Keywords.** Bayesian parameter inference, inequality constraints, MCMC, outlier-robust distributions, stochastic processes.
 
-**To acknowledge this project:** "This work was funded by the 2025 PHC Maïmonide call."
+**To acknowledge this project:** "This work was carried out as part of the PHC Maïmonide project 53907UA."
+
+### Funding opportunities
+- 1 Master internship (4-6 months, late winter or early spring 2027)
+     + Status: to be hired [[offer]](https://github.com/anfelopera/anfelopera.github.io/raw/master/funding/2026-PHC-Maimonide/Maimomide_Internship_Offer_2026_contrs_proc.pdf)
 

@@ -1,6 +1,5 @@
 ## Working Papers
 - R. C. Sabi Gninkou, A. F. López-Lopera, F. Massa, and R. Le Riche, Scalable multitask Gaussian processes for complex mechanical systems with functional covariates [[preprint]](https://hal.science/hal-05524247)
-- M. Castaño-Aguirre, A. F. López-Lopera, N. Bartoli, F. Massa, and T. Lefebvre, Sparse approximation of recursive multi-fidelity Kriging for data fusion in aerodynamics, accepted in the 17th French Colloquium of Structural Analysis, 2025
 - A. Arous, A. F. Lopez-Lopera, Nael Abu-Ghazaleh and Ihsen Alouani, May the noise be with you: Adversarial training without adversarial examples [[preprint]](https://arxiv.org/abs/2312.08877)
 - E. A. Valencia, C. K. Valencia, A. F. López-Lopera and M. A. Alvarez, Distance measures for hidden Markov models based on Hilbert space embeddings for time series classification
 
@@ -23,10 +22,10 @@
 ---
 
 ## Proceedings in International Conférences
-- L. F. Torres-Torres, J. Arias-García, H. F. García, A. F. López-Lopera and J. F. Vargas-Bonilla, Gaussian process-driven hidden Markov models for early diagnosis of infant gait anomalies, IEEE EMBC 2025, Copenhagen, Denmark  [[doi]](https://doi.org/10.1109/EMBC58623.2025.11254881) [[HAL]](https://hal.science/hal-04937628)
+- L. F. Torres-Torres, J. Arias-García, H. F. García, A. F. López-Lopera and J. F. Vargas-Bonilla, Gaussian process-driven hidden Markov models for early diagnosis of infant gait anomalies, IEEE EMBC 2025, Copenhagen, Denmark  [[doi]](https://doi.org/10.1109/EMBC58623.2025.11254881) [[preprint]](https://hal.science/hal-04937628)
 - A. F. López-Lopera, F. Bachoc and O. Roustant, High-dimensional additive Gaussian processes under monotonicity constraints, NeurIPS 2022, New Orleans, USA [[url]](https://proceedings.neurips.cc/paper_files/paper/2022/hash/34b70ece5f8d273fd670a17e2248d034-Abstract-Conference.html) [[preprint]](https://arxiv.org/abs/2205.08528)
-- A. F. López-Lopera, F. Massa, I. Turpin and N. Leconte, Modeling complex mechanical computer codes with functional input via Gaussian processes, in CILAMCE 2022, Foz do Iguaçu, Paraná, Brazil [[url]](https://www.cilamce.com.br/anais/index.php?ano=2022) [[HAL]](https://hal.archives-ouvertes.fr/hal-03882473/)
-- R. Conde-Arenzana, A. F. López-Lopera, S. Mouton, N. Bartoli and T. Lefebvre, Multi-fidelity Gaussian process model for CFD and wind tunnel data fusion, Aerobest 2021, Lisbon, Portugal (online) [[url]](https://aerobest2021.idmec.tecnico.ulisboa.pt/publications/#proceedings) [[HAL]](https://hal.archives-ouvertes.fr/hal-03346321/)
+- A. F. López-Lopera, F. Massa, I. Turpin and N. Leconte, Modeling complex mechanical computer codes with functional input via Gaussian processes, in CILAMCE 2022, Foz do Iguaçu, Paraná, Brazil [[url]](https://www.cilamce.com.br/anais/index.php?ano=2022) [[preprint]](https://hal.archives-ouvertes.fr/hal-03882473/)
+- R. Conde-Arenzana, A. F. López-Lopera, S. Mouton, N. Bartoli and T. Lefebvre, Multi-fidelity Gaussian process model for CFD and wind tunnel data fusion, Aerobest 2021, Lisbon, Portugal (online) [[url]](https://aerobest2021.idmec.tecnico.ulisboa.pt/publications/#proceedings) [[preprint]](https://hal.archives-ouvertes.fr/hal-03346321/)
 - A. F. López-Lopera, F. Bachoc, N. Durrande, J. Rohmer, D. Idier and O. Roustant, Approximating Gaussian process emulators with linear inequality constraints and noisy observations via MC and MCMC, MCQMC 2019, Rennes, France [[doi]](https://doi.org/10.1007/978-3-030-43465-6_18) [[preprint]](https://arxiv.org/abs/1901.04827)
 - A. F. López-Lopera, S. John and N. Durrande, Gaussian process modulated Cox processes under linear inequality constraints, AISTATS 2019, Okinawa, Japan [[url]](http://proceedings.mlr.press/v89/lopez-lopera19a.html) [[preprint]](http://arxiv.org/abs/1902.10974)
 - A. F. López-Lopera, M. A. Álvarez and A. A. Orozco, Sparse linear models applied to power quality disturbance classification, CIARP 2016, Lima, Peru [[doi]](https://link.springer.com/chapter/10.1007/978-3-319-52277-7_63) [[preprint]](http://arxiv.org/abs/1511.07281)
@@ -37,7 +36,8 @@
 ---
 
 ## Proceedings in French Conferences
-- D. Idier, A. Aurouet, F. Bachoc, A. Baills, J. Betancourt, F. Gamboa, T. Klein, S. Le Roy, A. F. López-Lopera, J. Louisor, R. Pedreros, J. Rohmer, and A. Thibault,  *Un système local de prévision et alerte des submersions côtières centré sur les besoins des utilisateurs et utilisant des techniques de métamodélisation*, Journées Nationales Génie Côtier - Génie Civil, France. [[doi]](http://dx.doi.org/10.5150/jngcgc.2022.088) [[HAL]](https://hal.archives-ouvertes.fr/hal-03780209/)
+- M. Castaño-Aguirre, A. F. López-Lopera, N. Bartoli, F. Massa, and T. Lefebvre, Sparse approximation of recursive multi-fidelity Kriging for data fusion in aerodynamics, 17ème Colloque National en Calcul des Structures, 2025 [[preprint]](https://hal.science/hal-05631774)
+- D. Idier, A. Aurouet, F. Bachoc, A. Baills, J. Betancourt, F. Gamboa, T. Klein, S. Le Roy, A. F. López-Lopera, J. Louisor, R. Pedreros, J. Rohmer, and A. Thibault,  *Un système local de prévision et alerte des submersions côtières centré sur les besoins des utilisateurs et utilisant des techniques de métamodélisation*, Journées Nationales Génie Côtier - Génie Civil, 2022 [[doi]](http://dx.doi.org/10.5150/jngcgc.2022.088) [[preprint]](https://hal.archives-ouvertes.fr/hal-03780209/)
 
 ---
 

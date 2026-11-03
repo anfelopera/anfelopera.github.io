@@ -27,6 +27,8 @@ The project proposes both innovative theoretical and numerical contributions tha
 		
 **Keywords.** Mechanical codes, stochastic modeling and simulation, uncertainty quantification, functional data, kernel design, machine learning, reverse-engineering.
 
+**To acknowledge this project:** "This work was supported by the project GAME (ANR-23-CE46-0007) of the French National Research Agency (ANR)."
+
 ### Funding opportunities
 - 1 Master internship (6 months, spring 2024)
      + Status: already allocated
@@ -37,5 +39,3 @@ The project proposes both innovative theoretical and numerical contributions tha
 - R. C. Sabi Gninkou, A. F. López-Lopera, F. Massa, and R. Le Riche, Scalable multitask Gaussian processes for complex mechanical systems with functional covariates [[preprint]](https://hal.science/hal-05524247)
 - L. Reding, A. F. López-Lopera and F. Bachoc, Covariance parameter estimation of Gaussian processes with approximated functional inputs, Journal of Multivariate Analysis 205: 105380, 2025 [[doi]](https://doi.org/10.1016/j.jmva.2024.105380) [[preprint]](https://arxiv.org/abs/2404.17222) [[github]](https://github.com/anfelopera/fGPs)
 - L. Grammont, F. Bachoc, and A. F. López-Lopera, Error bounds for a kernel-based constrained optimal smoothing approximation, SIAM/ASA Journal on Uncertainty Quantification 13(3): 1145-1173, 2025 [[doi]](https://doi.org/10.1137/24M1676491) [[preprint]](https://hal.science/hal-04645086)
-
-**To acknowledge this project:** "This work was supported by the project GAME (ANR-23-CE46-0007) of the French National Research Agency (ANR)."
