@@ -1,4 +1,4 @@
-## PHC Maïmonide 2026 (France-Israel)
+## PHC Maïmonide 53907UA (France-Israel)
 
 ### A Bayesian approach to constrained Gaussian and Student-t processes with applications to regression and global optimization
 
@@ -16,7 +16,7 @@ This 3-year project (starting in January 2026) is funded by the 2025 PHC Maïmon
 
 This research project aims to advance Bayesian methodologies for Gaussian and Student-t processes under target constraints (e.g., inequality, monotonicity, or convexity constraints), addressing critical challenges in engineering and machine learning.
 
-* Constrained Student-t processes (TPs) under target constraints.
+* Student-t processes (TPs) under inequality constraints.
 * Bayesian parameter estimation methods for constrained GPs and TPs.
 * Applications to regression and optimization tasks in engineering and machine learning.
 

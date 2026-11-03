@@ -14,10 +14,10 @@
 
 ### Current offers
 
-I will be posting new offers here.
+- (PI) Master internship (4-6 months, starting late winter or early spring 2027) on *"Student t-processes under inequality constraints"* funded by [PHC Maïmonide project 53907UA](https://anfelopera.github.io/funding/2026-PHC-Maimonide), co-supervised by [G. Toulemonde](https://imag.umontpellier.fr/~toulemonde/).
 
 ### 2024
-- (PI) Master internship (6 months) and PhD (3 years) funding on *"Gaussian process modeling of mechanical random fields: a complete study from simulation to identification"*, both offers funded by the ANR JCJC [GAME](https://anfelopera.github.io/funding/GAME).
+- (PI) Master internship (6 months) and PhD (3 years) funding on *"Gaussian process modeling of mechanical random fields: a complete study from simulation to identification"*, both offers funded by the [ANR JCJC GAME](https://anfelopera.github.io/funding/2023-ANR-GAME).
 
 ### 2023
 - (Co-PI) 3-years PhD funding on *"Multi-fidelity adaptive design of experiments and surrogate models for data fusion in aerodynamics"*, co-funded by the ONERA and UPHF.
